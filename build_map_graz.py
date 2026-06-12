@@ -77,11 +77,12 @@ folium.LayerControl(collapsed=False).add_to(m)
 title_html = """
 <div style="position: fixed; top: 10px; left: 50px; z-index: 9999;
             background: white; padding: 8px 14px; border-radius: 6px;
-            box-shadow: 0 1px 4px rgba(0,0,0,0.3); font-family: sans-serif;">
+            box-shadow: 0 1px 4px rgba(0,0,0,0.3); font-family: sans-serif; max-width: 360px;">
   <b>Cool Spots Graz - Where to Cool Down on a Hot Day</b><br>
   <span style="font-size: 12px;">Drinking fountains, libraries, churches, and parks/green spaces.
   Red markers = official "Coole Raeume" (City of Graz cooling program).
-  Use the layer control (top right) to filter by type.</span>
+  Use the layer control (top right) to filter by type.</span><br>
+  <a href="about.html" style="font-size: 12px; color: #1C7293; font-weight: bold;">About this dataset &amp; data sources &rarr;</a>
 </div>
 """
 m.get_root().html.add_child(folium.Element(title_html))
