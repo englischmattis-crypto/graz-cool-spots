@@ -13,8 +13,8 @@ import folium
 from folium.plugins import MarkerCluster
 from pathlib import Path
 
-DATA = Path("/sessions/wizardly-laughing-sagan/mnt/outputs/graz_cool_spots.csv")
-OUT = Path("/sessions/wizardly-laughing-sagan/mnt/outputs/graz_cool_spots_map.html")
+DATA = Path("/sessions/wizardly-laughing-sagan/mnt/Dataset/graz_cool_spots.csv")
+OUT = Path("/sessions/wizardly-laughing-sagan/mnt/Dataset/graz_cool_spots_map.html")
 
 STYLE = {
     "Trinkbrunnen":   {"color": "#1f78b4", "icon": "tint",  "label": "Drinking fountains (Trinkbrunnen)"},
@@ -74,3 +74,7 @@ folium.LayerControl(collapsed=False).add_to(m)
 
 title_html = '<div style="position: fixed; top: 10px; left: 50px; z-index: 9999; background: white; padding: 8px 14px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.3); font-family: sans-serif; max-width: 360px;"><b>Cool Spots Graz</b><br><span style="font-size: 12px;">Red markers = official Coole Raeume cooling spots. Use layers (top right) to filter by type: fountains, libraries, churches, parks, water playgrounds, or spray cooling.</span><br><a href="about.html" style="font-size: 12px; color: #1C7293; font-weight: bold;">About this dataset &rarr;</a></div>'
 
+m.get_root().html.add_child(folium.Element(title_html))
+
+m.save(str(OUT))
+print(f"Saved map with {len(rows)} markers to {OUT}")
