@@ -46,7 +46,9 @@ for row in rows:
     is_cool = row["coole_raeume"] == "yes"
 
     popup_lines = [f"<b>{row['name']}</b>"]
-    popup_lines.append(f"Category: {cat} ({row['subcategory']})")
+    # Only show subcategory for parks (where it provides useful detail like water_park, nature_reserve)
+    if cat == "Park/Gruenraum":
+        popup_lines.append(f"Type: {row['subcategory']}")
     if row["address"]:
         popup_lines.append(f"Address: {row['address']}")
     if is_cool:
@@ -72,7 +74,3 @@ folium.LayerControl(collapsed=False).add_to(m)
 
 title_html = '<div style="position: fixed; top: 10px; left: 50px; z-index: 9999; background: white; padding: 8px 14px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.3); font-family: sans-serif; max-width: 360px;"><b>Cool Spots Graz</b><br><span style="font-size: 12px;">Red markers = official Coole Raeume cooling spots. Use layers (top right) to filter by type: fountains, libraries, churches, parks, water playgrounds, or spray cooling.</span><br><a href="about.html" style="font-size: 12px; color: #1C7293; font-weight: bold;">About this dataset &rarr;</a></div>'
 
-m.get_root().html.add_child(folium.Element(title_html))
-
-m.save(str(OUT))
-print(f"Saved map with {len(rows)} markers to {OUT}")
