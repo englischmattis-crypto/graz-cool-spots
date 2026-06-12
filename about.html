@@ -186,26 +186,28 @@
 
   <h2>The dataset at a glance</h2>
   <div class="stats">
-    <div class="stat"><span class="num">402</span><span class="label">total records</span></div>
+    <div class="stat"><span class="num">297</span><span class="label">total records</span></div>
     <div class="stat"><span class="num">11</span><span class="label">schema columns</span></div>
-    <div class="stat"><span class="num">4</span><span class="label">open data sources</span></div>
-    <div class="stat accent"><span class="num">13</span><span class="label">official &ldquo;Coole Räume&rdquo;</span></div>
+    <div class="stat"><span class="num">6</span><span class="label">cooling spot types</span></div>
+    <div class="stat accent"><span class="num">18</span><span class="label">official &ldquo;Coole Räume&rdquo;</span></div>
     <div class="stat tertiary"><span class="num">2</span><span class="label">license types (CC BY 4.0 / ODbL 1.0)</span></div>
   </div>
 
   <ul>
     <li>183 drinking fountains (&ldquo;Öffentliche Brunnen&rdquo;, all Trinkbrunnen)</li>
-    <li>35 public libraries (3 flagged as &ldquo;Coole Räume&rdquo;)</li>
-    <li>93 churches and recognised religious communities (10 flagged as &ldquo;Coole Räume&rdquo;)</li>
+    <li>8 public libraries (all Stadtbibliothek Graz branches; 3 flagged as &ldquo;Coole Räume&rdquo;)</li>
+    <li>10 churches and recognised religious communities (only those flagged as official &ldquo;Coole Räume&rdquo;)</li>
     <li>91 parks and green spaces (from OpenStreetMap, filtered to park, water_park, nature_reserve,
         recreation_ground, village_green; garden and sports_centre excluded as not generally
         publicly accessible cool-down spots)</li>
+    <li>3 water playgrounds (Wasserspielplätze) with fountains, splash zones, and water features</li>
+    <li>2 spray mist cooling installations (Sprühnebel-Lanzen) — test locations operated by City of Graz</li>
   </ul>
 
   <h2>Files in this repository</h2>
   <table>
     <tr><th>File</th><th>Description</th></tr>
-    <tr><td><code>graz_cool_spots.csv</code></td><td>Tabular version of the dataset (402 records, 11 columns)</td></tr>
+    <tr><td><code>graz_cool_spots.csv</code></td><td>Tabular version of the dataset (297 records, 11 columns)</td></tr>
     <tr><td><code>graz_cool_spots.geojson</code></td><td>Same data as a GeoJSON FeatureCollection (point geometries, EPSG:4326 / WGS84)</td></tr>
     <tr><td><code>index.html</code> / <code>graz_cool_spots_map.html</code></td><td>Interactive demo map (Leaflet/folium)</td></tr>
     <tr><td><code>merge_graz.py</code></td><td>Python script that builds the dataset from the raw source files</td></tr>
@@ -239,17 +241,27 @@
     <tr>
       <td>Bibliotheken (libraries)</td>
       <td><a href="https://geodaten.graz.at/arcgis/rest/services/OGD/OGD_WFS/MapServer/23">Stadt Graz OGD, layer 23</a></td>
-      <td>CC BY 4.0</td><td>35</td>
+      <td>CC BY 4.0</td><td>8 (filtered to Stadtbibliothek branches)</td>
     </tr>
     <tr>
       <td>Kirchen und anerkannte Religionsgemeinschaften (churches)</td>
       <td><a href="https://geodaten.graz.at/arcgis/rest/services/OGD/OGD_WFS/MapServer/31">Stadt Graz OGD, layer 31</a></td>
-      <td>CC BY 4.0</td><td>93</td>
+      <td>CC BY 4.0</td><td>10 (filtered to official &ldquo;Coole Räume&rdquo;)</td>
     </tr>
     <tr>
       <td>Parks and green spaces</td>
       <td><a href="https://www.openstreetmap.org/copyright">OpenStreetMap (Overpass API)</a></td>
       <td>ODbL 1.0</td><td>91</td>
+    </tr>
+    <tr>
+      <td>Wasserspielplätze (water playgrounds)</td>
+      <td>Stadt Graz / Freizeitinfo.at / Mamilade</td>
+      <td>CC BY 4.0</td><td>3</td>
+    </tr>
+    <tr>
+      <td>Sprühnebel-Lanzen (spray mist cooling)</td>
+      <td>Stadt Graz / Holding Graz</td>
+      <td>CC BY 4.0</td><td>2 (test installations as of June 2026)</td>
     </tr>
   </table>
   <p>
@@ -292,24 +304,27 @@
         <a href="https://www.openstreetmap.org/copyright">openstreetmap.org/copyright</a>.</li>
   </ul>
 
-  <h2>Update strategy</h2>
+  <h2>Data filtering &amp; scope decisions</h2>
   <p>
-    The Stadt Graz OGD layers and OpenStreetMap are both updated on an ongoing basis. To refresh
-    this dataset, re-run <code>merge_graz.py</code> after re-downloading the four raw source files
-    from the endpoints listed above, and re-check the &ldquo;Coole Räume&rdquo; list at
-    <a href="https://www.graz.net/orte-der-abkuehlung-33368/">graz.net/orte-der-abkuehlung-33368</a>
-    for changes.
+    <strong>Libraries:</strong> We include only the 8 Stadtbibliothek Graz branches (public city library),
+    excluding university libraries and specialized collections. All Stadtbibliothek locations offer free building access
+    with no membership required to cool off; the membership fee (~€20/year) applies only to borrowing materials.
   </p>
-
   <p>
-    <a class="cta" href="index.html">Open the interactive map &rarr;</a>
+    <strong>Churches:</strong> We include only the 10 churches designated as official &ldquo;Coole Räume&rdquo; by the
+    City of Graz, excluding other churches in the OGD dataset. Not all churches are publicly accessible or suitable as
+    cooling spots.
   </p>
-</main>
-
-<footer>
-  Cool Spots Graz — POI Dataset · Mattis Englisch ·
-  <a href="https://github.com/englischmattis-crypto/graz-cool-spots">github.com/englischmattis-crypto/graz-cool-spots</a>
-</footer>
-
-</body>
-</html>
+  <p>
+    <strong>Water playgrounds (Wasserspielplätze):</strong> We include 3 public water playgrounds in Graz that offer free,
+    spontaneous cooling through splash zones, water features, and fountains. These are ideal for families and provide a
+    more active cooling option than passive spots. All are operated by the City of Graz and have no entry fees.
+  </p>
+  <p>
+    <strong>Spray mist cooling (Sprühnebel-Lanzen):</strong> We include 2 test installations of spray mist cooling systems
+    operated by the City of Graz (Holding Graz) as of June 2026. These innovative systems provide relief on extremely hot
+    days through fine water mist. This is an emerging cooling technology in Graz, inspired by Vienna's &ldquo;Sommerspritzer&rdquo;
+    program. Availability and permanent deployment may change; check with the city for current status.
+  </p>
+  <p>
+    <strong>Drinking fountains:</strong> The dataset i

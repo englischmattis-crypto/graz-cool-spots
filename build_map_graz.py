@@ -5,7 +5,7 @@ Build an interactive folium map (graz_cool_spots_map.html) for the
 Use case demonstrated: "I'm in Graz on a hot summer day - where can I cool
 down?" The map lets a user toggle between drinking fountains, libraries,
 churches, and parks/green spaces, and highlights the official "Coole Raeume"
-(City of Graz cooling-spot program: 10 churches + 3 libraries).
+(City of Graz cooling-spot program: 10 churches + 8 libraries + 5 water spots).
 """
 
 import csv
@@ -21,6 +21,8 @@ STYLE = {
     "Bibliothek":     {"color": "#33a02c", "icon": "book",  "label": "Libraries (Bibliotheken)"},
     "Kirche":         {"color": "#6a3d9a", "icon": "place-of-worship", "label": "Churches (Kirchen)"},
     "Park/Gruenraum": {"color": "#33a02c", "icon": "tree",  "label": "Parks & green spaces"},
+    "Wasserspielplatz": {"color": "#0ea5e9", "icon": "water",  "label": "Water playgrounds (Wasserspielplaetze)"},
+    "Spruehnebel-Lanze": {"color": "#06b6d4", "icon": "droplet",  "label": "Spray mist cooling (Spruehnebel-Lanzen)"},
 }
 COOL_COLOR = "#e31a1c"
 
@@ -33,10 +35,13 @@ groups = {
     t: folium.FeatureGroup(name=STYLE[t]["label"], show=True)
     for t in STYLE
 }
-coole_group = folium.FeatureGroup(name="Official 'Coole Raeume' (highlighted)", show=True)
+coole_group = folium.FeatureGroup(name="Official Coole Raeume (highlighted)", show=True)
 
 for row in rows:
     cat = row["category"]
+    if cat not in STYLE:
+        print(f"Warning: Unknown category {cat}")
+        continue
     style = STYLE[cat]
     lat, lon = float(row["lat"]), float(row["lon"])
     is_cool = row["coole_raeume"] == "yes"
@@ -74,17 +79,8 @@ coole_group.add_to(m)
 
 folium.LayerControl(collapsed=False).add_to(m)
 
-title_html = """
-<div style="position: fixed; top: 10px; left: 50px; z-index: 9999;
-            background: white; padding: 8px 14px; border-radius: 6px;
-            box-shadow: 0 1px 4px rgba(0,0,0,0.3); font-family: sans-serif; max-width: 360px;">
-  <b>Cool Spots Graz - Where to Cool Down on a Hot Day</b><br>
-  <span style="font-size: 12px;">Drinking fountains, libraries, churches, and parks/green spaces.
-  Red markers = official "Coole Raeume" (City of Graz cooling program).
-  Use the layer control (top right) to filter by type.</span><br>
-  <a href="about.html" style="font-size: 12px; color: #1C7293; font-weight: bold;">About this dataset &amp; data sources &rarr;</a>
-</div>
-"""
+title_html = '<div style="position: fixed; top: 10px; left: 50px; z-index: 9999; background: white; padding: 8px 14px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.3); font-family: sans-serif; max-width: 360px;"><b>Cool Spots Graz - Where to Cool Down</b><br><span style="font-size: 12px;">Fountains, libraries, churches, parks, water playgrounds and spray cooling. Red markers = official Coole Raeume. Use layer control (top right) to filter by type.</span><br><a href="about.html" style="font-size: 12px; color: #1C7293; font-weight: bold;">About this dataset &rarr;</a></div>'
+
 m.get_root().html.add_child(folium.Element(title_html))
 
 m.save(str(OUT))
