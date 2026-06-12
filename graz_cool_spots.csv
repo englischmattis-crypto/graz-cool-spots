@@ -1,298 +1,304 @@
-id,name,category,subcategory,address,plz,lat,lon,coole_raeume,source,license
-fountain_1,Trinkbrunnen Peter-Rosegger-Straße 27,Trinkbrunnen,Trinkbrunnen,Peter-Rosegger-Straße 27,,47.05368644815697,15.408617230898946,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_2,Trinkbrunnen St.-Peter-Pfarrweg 21,Trinkbrunnen,Trinkbrunnen,St.-Peter-Pfarrweg 21,,47.063166922013814,15.472302259640765,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_4,Trinkbrunnen Körösistraße 29c,Trinkbrunnen,Trinkbrunnen,Körösistraße 29c,,47.080980330130444,15.431222375099843,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_5,Trinkbrunnen Ekkehard-Hauer-Straße 33,Trinkbrunnen,Trinkbrunnen,Ekkehard-Hauer-Straße 33,,47.0498821097441,15.391086359120646,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_7,Trinkbrunnen Rosenhain 3,Trinkbrunnen,Trinkbrunnen,Rosenhain 3,,47.08361844360176,15.451866762260781,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_8,Trinkbrunnen Lagergasse 372,Trinkbrunnen,Trinkbrunnen,Lagergasse 372,,47.036051175182,15.44491527004233,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_9,Trinkbrunnen Reininghausstraße 5a,Trinkbrunnen,Trinkbrunnen,Reininghausstraße 5a,,47.065757907722016,15.409727134676784,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_10,Trinkbrunnen Karmeliterplatz 6,Trinkbrunnen,Trinkbrunnen,Karmeliterplatz 6,,47.073927189694444,15.44032057824733,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_11,Trinkbrunnen Burggasse 2a,Trinkbrunnen,Trinkbrunnen,Burggasse 2a,,47.07179964023817,15.442931815059648,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_14,Trinkbrunnen Eduard-Keil-Gasse 86,Trinkbrunnen,Trinkbrunnen,Eduard-Keil-Gasse 86,,47.04151103579663,15.44445303513573,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_15,Trinkbrunnen Jochen-Rindt-Platz,Trinkbrunnen,Trinkbrunnen,Jochen-Rindt-Platz,,47.0591317237945,15.411981541474105,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_19,Trinkbrunnen Wagner-Jauregg-Platz 1,Trinkbrunnen,Trinkbrunnen,Wagner-Jauregg-Platz 1,,47.03879572172367,15.41817565595279,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_20,Trinkbrunnen Sauraugasse 14,Trinkbrunnen,Trinkbrunnen,Sauraugasse 14,,47.07445804710102,15.442748298972841,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_21,Trinkbrunnen Tannhofweg 2,Trinkbrunnen,Trinkbrunnen,Tannhofweg 2,,47.104037826854075,15.490040822582205,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_22,Trinkbrunnen Pula Kai,Trinkbrunnen,Trinkbrunnen,Pula Kai,,47.06092731229243,15.434984782916368,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_23,Trinkbrunnen Pula Kai,Trinkbrunnen,Trinkbrunnen,Pula Kai,,47.06100497959513,15.436216002266455,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_24,Trinkbrunnen Ziegelstraße 33a,Trinkbrunnen,Trinkbrunnen,Ziegelstraße 33a,,47.101414454841525,15.431407686944938,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_25,Trinkbrunnen Waagner-Biro-Straße 104,Trinkbrunnen,Trinkbrunnen,Waagner-Biro-Straße 104,,47.080835967056956,15.410433282603949,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_26,Trinkbrunnen Stiftingtalstraße 4,Trinkbrunnen,Trinkbrunnen,Stiftingtalstraße 4,,47.07954190831058,15.468254948076039,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_28,Trinkbrunnen Gritzenweg 1,Trinkbrunnen,Trinkbrunnen,Gritzenweg 1,,47.06433485575291,15.387343860422261,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_29,Trinkbrunnen Griesplatz 36,Trinkbrunnen,Trinkbrunnen,Griesplatz 36,,47.06694126702718,15.431753363015345,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_31,Trinkbrunnen Hofgasse 16,Trinkbrunnen,Trinkbrunnen,Hofgasse 16,,47.07230660842117,15.441570335922139,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_33,Trinkbrunnen Waagner-Biro-Straße 132,Trinkbrunnen,Trinkbrunnen,Waagner-Biro-Straße 132,,47.08226998904252,15.409681248793309,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_35,Trinkbrunnen Andersengasse 42,Trinkbrunnen,Trinkbrunnen,Andersengasse 42,,47.04548763983924,15.445061974147853,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_36,Trinkbrunnen Kehlbergstraße 36,Trinkbrunnen,Trinkbrunnen,Kehlbergstraße 36,,47.036093505541814,15.388376043965714,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_37,Trinkbrunnen Am Jägergrund 17,Trinkbrunnen,Trinkbrunnen,Am Jägergrund 17,,47.04163951545437,15.399144859012445,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_38,Trinkbrunnen Fröhlichgasse 108,Trinkbrunnen,Trinkbrunnen,Fröhlichgasse 108,,47.052273546796144,15.439838875628276,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_41,Trinkbrunnen Angergasse 43,Trinkbrunnen,Trinkbrunnen,Angergasse 43,,47.047002488183395,15.44299481578563,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_44,Trinkbrunnen Wagner-Jauregg-Platz 1,Trinkbrunnen,Trinkbrunnen,Wagner-Jauregg-Platz 1,,47.03599978859937,15.421461470006957,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_45,Trinkbrunnen Dominikanergasse 1,Trinkbrunnen,Trinkbrunnen,Dominikanergasse 1,,47.070876755563084,15.430517143576443,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_46,Trinkbrunnen Jakominiplatz 16,Trinkbrunnen,Trinkbrunnen,Jakominiplatz 16,,47.06727950630578,15.442237735255343,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_47,Trinkbrunnen Waltendorfer Hauptstraße 31a,Trinkbrunnen,Trinkbrunnen,Waltendorfer Hauptstraße 31a,,47.06671320816613,15.468894572073834,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_48,Trinkbrunnen Wagner-Jauregg-Platz 1,Trinkbrunnen,Trinkbrunnen,Wagner-Jauregg-Platz 1,,47.03825565955981,15.41976778628917,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_52,Trinkbrunnen Halbärthgasse 16,Trinkbrunnen,Trinkbrunnen,Halbärthgasse 16,,47.07611140296688,15.450142871545651,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_53,Trinkbrunnen Landhausgasse 3,Trinkbrunnen,Trinkbrunnen,Landhausgasse 3,,47.06965171387819,15.438520306375755,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_55,Trinkbrunnen Wachtelgasse 23,Trinkbrunnen,Trinkbrunnen,Wachtelgasse 23,,47.05442529581001,15.403386564029393,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_58,Trinkbrunnen Schloßberg 3,Trinkbrunnen,Trinkbrunnen,Schloßberg 3,,47.073914619196806,15.437378802089265,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_59,Trinkbrunnen Anton-Kleinoscheg-Straße 1,Trinkbrunnen,Trinkbrunnen,Anton-Kleinoscheg-Straße 1,,47.10043871171456,15.39442359891312,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_62,Trinkbrunnen Kanalweg,Trinkbrunnen,Trinkbrunnen,Kanalweg,,46.99813872846883,15.46842143670118,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_63,Trinkbrunnen Lagergasse 257,Trinkbrunnen,Trinkbrunnen,Lagergasse 257,,47.04657428071274,15.441065895707657,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_64,Trinkbrunnen Reininghauspark 5,Trinkbrunnen,Trinkbrunnen,Reininghauspark 5,,47.061889744143265,15.410483853155878,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_65,Trinkbrunnen Naglergasse 9,Trinkbrunnen,Trinkbrunnen,Naglergasse 9,,47.07073252693265,15.451199872251106,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_67,Trinkbrunnen Neuholdaugasse 18,Trinkbrunnen,Trinkbrunnen,Neuholdaugasse 18,,47.059992398100064,15.436285549792984,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_68,Trinkbrunnen Schützgasse 13,Trinkbrunnen,Trinkbrunnen,Schützgasse 13,,47.058767857194134,15.432303850054184,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_69,Trinkbrunnen Angergasse 1,Trinkbrunnen,Trinkbrunnen,Angergasse 1,,47.051962935046184,15.43875336000865,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_70,Trinkbrunnen Wagner-Jauregg-Platz 1,Trinkbrunnen,Trinkbrunnen,Wagner-Jauregg-Platz 1,,47.04070544218257,15.41469233904417,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_71,Trinkbrunnen Lendkai 15,Trinkbrunnen,Trinkbrunnen,Lendkai 15,,47.07226944787075,15.434078697807355,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_72,Trinkbrunnen Harmsdorfgasse 12,Trinkbrunnen,Trinkbrunnen,Harmsdorfgasse 12,,47.05101993556308,15.456468710652873,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_73,Trinkbrunnen Petrifelderstraße 39,Trinkbrunnen,Trinkbrunnen,Petrifelderstraße 39,,47.05043199931923,15.469723318422082,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_74,Trinkbrunnen Hafnerstraße,Trinkbrunnen,Trinkbrunnen,Hafnerstraße,,47.02483780006312,15.403730584333461,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_75,Trinkbrunnen Schererstraße 11,Trinkbrunnen,Trinkbrunnen,Schererstraße 11,,47.057535252091164,15.396553907474349,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_76,Trinkbrunnen UNESCO-Esplanade 6,Trinkbrunnen,Trinkbrunnen,UNESCO-Esplanade 6,,47.0647985922452,15.410364909193511,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_77,Trinkbrunnen Theodor-Körner-Straße 160,Trinkbrunnen,Trinkbrunnen,Theodor-Körner-Straße 160,,47.09258998094641,15.42548870001566,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_78,Trinkbrunnen Olga-Rudel-Zeynek-Gasse 23,Trinkbrunnen,Trinkbrunnen,Olga-Rudel-Zeynek-Gasse 23,,47.03753600208367,15.392847532448,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_79,Trinkbrunnen Kantgasse 15,Trinkbrunnen,Trinkbrunnen,Kantgasse 15,,47.04883104174364,15.426163072504071,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_80,Trinkbrunnen Andritzer Reichsstraße 97,Trinkbrunnen,Trinkbrunnen,Andritzer Reichsstraße 97,,47.109030443897765,15.412390843849074,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_82,Trinkbrunnen Schulgasse 22,Trinkbrunnen,Trinkbrunnen,Schulgasse 22,,47.06739331294554,15.466413806503404,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_83,Trinkbrunnen Ortweinplatz 2,Trinkbrunnen,Trinkbrunnen,Ortweinplatz 2,,47.063348913838915,15.44375270684295,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_84,Trinkbrunnen Am Wagrain 10,Trinkbrunnen,Trinkbrunnen,Am Wagrain 10,,47.04772356395476,15.419460971577575,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_85,Trinkbrunnen Georgigasse 51,Trinkbrunnen,Trinkbrunnen,Georgigasse 51,,47.073030450350196,15.401076242536849,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_87,Trinkbrunnen Radetzkystraße 15,Trinkbrunnen,Trinkbrunnen,Radetzkystraße 15,,47.066585737689785,15.439031412827866,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_91,Trinkbrunnen Bahnhofgürtel 85,Trinkbrunnen,Trinkbrunnen,Bahnhofgürtel 85,,47.07193246871762,15.418722935436648,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_92,Trinkbrunnen Volksgartenstraße 11,Trinkbrunnen,Trinkbrunnen,Volksgartenstraße 11,,47.07384548248918,15.426043862992362,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_94,Trinkbrunnen Vinzenzgasse 56,Trinkbrunnen,Trinkbrunnen,Vinzenzgasse 56,,47.07636210710105,15.404732075372147,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_96,Trinkbrunnen Martinhofstraße 88,Trinkbrunnen,Trinkbrunnen,Martinhofstraße 88,,47.034815206060514,15.392861119067986,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_97,Trinkbrunnen Gasometerweg 3,Trinkbrunnen,Trinkbrunnen,Gasometerweg 3,,47.02743683850845,15.45206476794092,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_99,Trinkbrunnen Leuzenhofgasse 4,Trinkbrunnen,Trinkbrunnen,Leuzenhofgasse 4,,47.08233217668845,15.418147551416043,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_100,Trinkbrunnen Josef-Huber-Gasse 28,Trinkbrunnen,Trinkbrunnen,Josef-Huber-Gasse 28,,47.06599109781325,15.422741205754045,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_101,Trinkbrunnen Wagner-Jauregg-Platz 1,Trinkbrunnen,Trinkbrunnen,Wagner-Jauregg-Platz 1,,47.03666217533826,15.419659510982234,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_102,Trinkbrunnen Radetzkystraße 33,Trinkbrunnen,Trinkbrunnen,Radetzkystraße 33,,47.066129086596035,15.435303222483707,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_103,Trinkbrunnen Augasse 118,Trinkbrunnen,Trinkbrunnen,Augasse 118,,47.09661033734317,15.41434152341259,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_104,Trinkbrunnen Grillweg 8,Trinkbrunnen,Trinkbrunnen,Grillweg 8,,47.040307622428045,15.411550952678011,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_105,Trinkbrunnen Engelsdorfer Straße 54,Trinkbrunnen,Trinkbrunnen,Engelsdorfer Straße 54,,47.030503584103435,15.461291304710711,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_106,Trinkbrunnen Lagergasse 380,Trinkbrunnen,Trinkbrunnen,Lagergasse 380,,47.03459621573413,15.44611871040556,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_107,Trinkbrunnen Muchargasse 41,Trinkbrunnen,Trinkbrunnen,Muchargasse 41,,47.07958577056706,15.433892526827515,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_108,Trinkbrunnen Messeplatz 2,Trinkbrunnen,Trinkbrunnen,Messeplatz 2,,47.056291243551655,15.447597701113574,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_109,Trinkbrunnen Schwimmschulkai 108,Trinkbrunnen,Trinkbrunnen,Schwimmschulkai 108,,47.08631551600203,15.424946765104929,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_110,Trinkbrunnen Olga-Rudel-Zeynek-Gasse 10,Trinkbrunnen,Trinkbrunnen,Olga-Rudel-Zeynek-Gasse 10,,47.03780199427946,15.394123350767167,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_111,Trinkbrunnen Grottenhofstraße 32,Trinkbrunnen,Trinkbrunnen,Grottenhofstraße 32,,47.047580317798484,15.401091361726927,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_112,Trinkbrunnen Conrad-von-Hötzendorf-Straße 171,Trinkbrunnen,Trinkbrunnen,Conrad-von-Hötzendorf-Straße 171,,47.047712573661315,15.454488600504531,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_113,Trinkbrunnen Salfeldstraße 25b,Trinkbrunnen,Trinkbrunnen,Salfeldstraße 25b,,47.03217772036342,15.396206456103297,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_114,Trinkbrunnen Oeverseegasse 26,Trinkbrunnen,Trinkbrunnen,Oeverseegasse 26,,47.063783756955516,15.4274463078038,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_115,Trinkbrunnen Maria-Theresia-Allee 5,Trinkbrunnen,Trinkbrunnen,Maria-Theresia-Allee 5,,47.077201448116305,15.442162688770763,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_116,Trinkbrunnen Ruckerlberggasse 20,Trinkbrunnen,Trinkbrunnen,Ruckerlberggasse 20,,47.0677892839888,15.460431663649418,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_117,Trinkbrunnen Am Eichengrund 12,Trinkbrunnen,Trinkbrunnen,Am Eichengrund 12,,47.11543848424493,15.42136046633547,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_118,Trinkbrunnen Eichbachgasse 181,Trinkbrunnen,Trinkbrunnen,Eichbachgasse 181,,47.01419504023795,15.46448768214213,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_121,Trinkbrunnen Esperantoplatz 1,Trinkbrunnen,Trinkbrunnen,Esperantoplatz 1,,47.071460813521426,15.424467633961799,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_123,Trinkbrunnen Rösselmühlgasse 22,Trinkbrunnen,Trinkbrunnen,Rösselmühlgasse 22,,47.06647736359076,15.428095605394178,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_126,Trinkbrunnen Kratkystraße 6b,Trinkbrunnen,Trinkbrunnen,Kratkystraße 6b,,47.06026430072016,15.412243777005209,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_127,Trinkbrunnen Wasserwerkgasse 9,Trinkbrunnen,Trinkbrunnen,Wasserwerkgasse 9,,47.10168354896848,15.413730653864501,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_128,Trinkbrunnen Friedrichgasse 34,Trinkbrunnen,Trinkbrunnen,Friedrichgasse 34,,47.06300257215198,15.436535974313887,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_129,Trinkbrunnen Straßganger Straße 429,Trinkbrunnen,Trinkbrunnen,Straßganger Straße 429,,47.03261565234641,15.399949871805477,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_132,Trinkbrunnen Plattensteig 20c,Trinkbrunnen,Trinkbrunnen,Plattensteig 20c,,47.112343253144964,15.469753509164825,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_134,Trinkbrunnen Mariahilferstraße 32,Trinkbrunnen,Trinkbrunnen,Mariahilferstraße 32,,47.07393344903705,15.432534921264114,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_135,Trinkbrunnen Lendkai 159,Trinkbrunnen,Trinkbrunnen,Lendkai 159,,47.08282540284697,15.427011457603957,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_137,Trinkbrunnen Volksgartenstraße 11,Trinkbrunnen,Trinkbrunnen,Volksgartenstraße 11,,47.07291317667021,15.427989255163466,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_138,Trinkbrunnen Kratkystraße 20d,Trinkbrunnen,Trinkbrunnen,Kratkystraße 20d,,47.05904577118957,15.407525570069446,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_139,Trinkbrunnen Tegetthoffplatz 1,Trinkbrunnen,Trinkbrunnen,Tegetthoffplatz 1,,47.07637628610517,15.458486512760036,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_140,Trinkbrunnen Trattenweg 10,Trinkbrunnen,Trinkbrunnen,Trattenweg 10,,47.052111814016094,15.442253126983582,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_141,Trinkbrunnen Am Fröbelpark 4,Trinkbrunnen,Trinkbrunnen,Am Fröbelpark 4,,47.08349624092846,15.41888427113679,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_142,Trinkbrunnen Ragnitzstraße 58b,Trinkbrunnen,Trinkbrunnen,Ragnitzstraße 58b,,47.077371054450325,15.48007769158404,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_143,Trinkbrunnen Felix-Dahn-Platz 2,Trinkbrunnen,Trinkbrunnen,Felix-Dahn-Platz 2,,47.06660274334912,15.453369740087362,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_144,Trinkbrunnen Grieskai 14,Trinkbrunnen,Trinkbrunnen,Grieskai 14,,47.068963361969566,15.434636961998399,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_146,Trinkbrunnen Wasserwerkgasse 10,Trinkbrunnen,Trinkbrunnen,Wasserwerkgasse 10,,47.101160614365945,15.411806328577143,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_147,Trinkbrunnen Hafnerriegel 27,Trinkbrunnen,Trinkbrunnen,Hafnerriegel 27,,47.06192510445932,15.453081783800242,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_148,Trinkbrunnen Radegunder Straße 221,Trinkbrunnen,Trinkbrunnen,Radegunder Straße 221,,47.125503007760656,15.442260435857742,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_149,Trinkbrunnen Schillerstraße 33a,Trinkbrunnen,Trinkbrunnen,Schillerstraße 33a,,47.07084717025847,15.45631322044781,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_150,Trinkbrunnen Ivica-Osim-Platz 1,Trinkbrunnen,Trinkbrunnen,Ivica-Osim-Platz 1,,47.04621766419609,15.4555710440323,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_151,Trinkbrunnen Lendplatz 39,Trinkbrunnen,Trinkbrunnen,Lendplatz 39,,47.07517210665228,15.430738695013433,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_155,Trinkbrunnen Hasnerplatz 12,Trinkbrunnen,Trinkbrunnen,Hasnerplatz 12,,47.08322518798149,15.433849208127182,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_156,Trinkbrunnen Rechbauerstraße 4a,Trinkbrunnen,Trinkbrunnen,Rechbauerstraße 4a,,47.07007378533205,15.448858078792588,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_158,Trinkbrunnen Zeugamtsweg 21,Trinkbrunnen,Trinkbrunnen,Zeugamtsweg 21,,47.0573701946812,15.410800016891049,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_159,Trinkbrunnen Dreierschützengasse 39c,Trinkbrunnen,Trinkbrunnen,Dreierschützengasse 39c,,47.076736668520105,15.408234247425424,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_161,Trinkbrunnen Waagner-Biro-Straße 78,Trinkbrunnen,Trinkbrunnen,Waagner-Biro-Straße 78,,47.07846990652657,15.41127012859445,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_162,Trinkbrunnen Färbergasse 11,Trinkbrunnen,Trinkbrunnen,Färbergasse 11,,47.07159641244756,15.439839298092519,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_163,Trinkbrunnen Pomisgasse 13,Trinkbrunnen,Trinkbrunnen,Pomisgasse 13,,47.055352673926194,15.443238922737834,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_164,Trinkbrunnen Daungasse 4,Trinkbrunnen,Trinkbrunnen,Daungasse 4,,47.07283511223713,15.41389450906988,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_165,Trinkbrunnen Vinzenzgasse 8,Trinkbrunnen,Trinkbrunnen,Vinzenzgasse 8,,47.07157875819872,15.403878515827557,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_166,Trinkbrunnen Nippelgasse 10a,Trinkbrunnen,Trinkbrunnen,Nippelgasse 10a,,47.024173036315176,15.42493402716314,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_168,Trinkbrunnen Harmsdorfgasse 68,Trinkbrunnen,Trinkbrunnen,Harmsdorfgasse 68,,47.05349016926441,15.46397658280722,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_169,Trinkbrunnen Zeillergasse 6,Trinkbrunnen,Trinkbrunnen,Zeillergasse 6,,47.07830075872231,15.428136987093698,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_170,Trinkbrunnen Kirchplatz 7,Trinkbrunnen,Trinkbrunnen,Kirchplatz 7,,47.107353270280015,15.491019329783922,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_171,Trinkbrunnen Leuzenhofgasse 4,Trinkbrunnen,Trinkbrunnen,Leuzenhofgasse 4,,47.08216116322609,15.418189191514944,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_172,Trinkbrunnen Am Eisernen Tor 10,Trinkbrunnen,Trinkbrunnen,Am Eisernen Tor 10,,47.068361956648886,15.441903424380174,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_173,Trinkbrunnen Neugasse 9,Trinkbrunnen,Trinkbrunnen,Neugasse 9,,47.09544951278883,15.417584355588852,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_174,Trinkbrunnen Hafnerriegel 27,Trinkbrunnen,Trinkbrunnen,Hafnerriegel 27,,47.062093717542126,15.453589335730515,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_177,Trinkbrunnen Sackstraße 20,Trinkbrunnen,Trinkbrunnen,Sackstraße 20,,47.07284807869987,15.436243457751983,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_179,Trinkbrunnen Sigmundstadl 47,Trinkbrunnen,Trinkbrunnen,Sigmundstadl 47,,47.07498072590503,15.426192184264087,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_180,Trinkbrunnen Hilmteichstraße 70,Trinkbrunnen,Trinkbrunnen,Hilmteichstraße 70,,47.083602781293216,15.46037663139743,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_182,Trinkbrunnen Am Rehgrund 22,Trinkbrunnen,Trinkbrunnen,Am Rehgrund 22,,47.09447955244407,15.467317079388096,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_183,Trinkbrunnen Babenbergerstraße 10,Trinkbrunnen,Trinkbrunnen,Babenbergerstraße 10,,47.07202877276413,15.422084412029559,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_184,Trinkbrunnen Vinzenzgasse 8,Trinkbrunnen,Trinkbrunnen,Vinzenzgasse 8,,47.071324739391734,15.404322038704786,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_185,Trinkbrunnen Augasse 130,Trinkbrunnen,Trinkbrunnen,Augasse 130,,47.096183810608856,15.411967650456768,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_187,Trinkbrunnen Schloßberg 9,Trinkbrunnen,Trinkbrunnen,Schloßberg 9,,47.07664800916943,15.438942292030791,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_188,Trinkbrunnen Roseggerweg 88,Trinkbrunnen,Trinkbrunnen,Roseggerweg 88,,47.09427997170068,15.474947540661633,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_189,Trinkbrunnen Plabutscherstraße 123,Trinkbrunnen,Trinkbrunnen,Plabutscherstraße 123,,47.09320127998499,15.400088786458523,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_190,Trinkbrunnen Engelsdorfer Straße 57a,Trinkbrunnen,Trinkbrunnen,Engelsdorfer Straße 57a,,47.03007951719278,15.462805555716544,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_191,Trinkbrunnen Tiergartenweg 10,Trinkbrunnen,Trinkbrunnen,Tiergartenweg 10,,47.04166324222959,15.432918472836226,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_193,Trinkbrunnen Wormgasse 11,Trinkbrunnen,Trinkbrunnen,Wormgasse 11,,47.079292148151914,15.442128202233338,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_195,Trinkbrunnen Banngrabenweg 50,Trinkbrunnen,Trinkbrunnen,Banngrabenweg 50,,47.04846509078364,15.471024931515828,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_197,Trinkbrunnen Annenstraße 59,Trinkbrunnen,Trinkbrunnen,Annenstraße 59,,47.07154577210997,15.4217238429641,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_198,Trinkbrunnen Andritzer Reichsstraße 42b,Trinkbrunnen,Trinkbrunnen,Andritzer Reichsstraße 42b,,47.10302284288293,15.421857203731474,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_199,Trinkbrunnen Grasbergerstraße 18,Trinkbrunnen,Trinkbrunnen,Grasbergerstraße 18,,47.06850250159223,15.40245698535111,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_201,Trinkbrunnen Dornschneidergasse 45,Trinkbrunnen,Trinkbrunnen,Dornschneidergasse 45,,47.049059031072545,15.43020272809255,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_203,Trinkbrunnen Lastenstraße 14a,Trinkbrunnen,Trinkbrunnen,Lastenstraße 14a,,47.08314533426197,15.41518680499401,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_205,Trinkbrunnen Auersperggasse 19,Trinkbrunnen,Trinkbrunnen,Auersperggasse 19,,47.08196482711686,15.460185315450339,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_206,Trinkbrunnen Augasse 16,Trinkbrunnen,Trinkbrunnen,Augasse 16,,47.09504148800989,15.416703287719445,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_207,Trinkbrunnen Reininghausstraße 81a,Trinkbrunnen,Trinkbrunnen,Reininghausstraße 81a,,47.06063613117224,15.39608824648838,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_209,Trinkbrunnen Burenstraße 82,Trinkbrunnen,Trinkbrunnen,Burenstraße 82,,47.06063195197299,15.392473067382351,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_210,Trinkbrunnen Grillparzerstraße 10,Trinkbrunnen,Trinkbrunnen,Grillparzerstraße 10,,47.081063093518324,15.443273585447754,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_211,Trinkbrunnen Neutorgasse 5,Trinkbrunnen,Trinkbrunnen,Neutorgasse 5,,47.070623362558294,15.43578502652985,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_212,Trinkbrunnen Rohrbachergasse 12,Trinkbrunnen,Trinkbrunnen,Rohrbachergasse 12,,47.104375260904895,15.420152259492351,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_213,Trinkbrunnen Grazer Straße 7,Trinkbrunnen,Trinkbrunnen,Grazer Straße 7,,47.098667935628015,15.419357058427407,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_214,Trinkbrunnen Am Steinfeld 13,Trinkbrunnen,Trinkbrunnen,Am Steinfeld 13,,47.06223250951346,15.411361984477303,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_215,Trinkbrunnen Darmstadtgasse 15,Trinkbrunnen,Trinkbrunnen,Darmstadtgasse 15,,47.078264418312926,15.422532880875092,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_217,Trinkbrunnen Oberer Plattenweg 7,Trinkbrunnen,Trinkbrunnen,Oberer Plattenweg 7,,47.09670653990952,15.445125785111346,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_219,Trinkbrunnen Stremayrgasse 10,Trinkbrunnen,Trinkbrunnen,Stremayrgasse 10,,47.06463216518002,15.451600815083296,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_220,Trinkbrunnen Oeverseegasse 12,Trinkbrunnen,Trinkbrunnen,Oeverseegasse 12,,47.064403721798136,15.427412839660326,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_223,Trinkbrunnen Grieskai 104,Trinkbrunnen,Trinkbrunnen,Grieskai 104,,47.05912371216256,15.434344926361375,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_224,Trinkbrunnen St.-Peter-Pfarrweg 35,Trinkbrunnen,Trinkbrunnen,St.-Peter-Pfarrweg 35,,47.06166149679929,15.472423172410181,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_225,Trinkbrunnen Waagner-Biro-Straße 104,Trinkbrunnen,Trinkbrunnen,Waagner-Biro-Straße 104,,47.08125996884231,15.410970997649395,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_226,Trinkbrunnen Lustbühelstraße 28,Trinkbrunnen,Trinkbrunnen,Lustbühelstraße 28,,47.06974312169426,15.49479953392502,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_227,Trinkbrunnen Dietrichsteinplatz 16,Trinkbrunnen,Trinkbrunnen,Dietrichsteinplatz 16,,47.06662525090424,15.446352249408589,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_228,Trinkbrunnen Freiheitsplatz 4,Trinkbrunnen,Trinkbrunnen,Freiheitsplatz 4,,47.07300986081255,15.441021029563151,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_231,Trinkbrunnen Schwimmschulkai,Trinkbrunnen,Trinkbrunnen,Schwimmschulkai,,47.09141328578285,15.421536093264123,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_232,Trinkbrunnen Theyergasse 11,Trinkbrunnen,Trinkbrunnen,Theyergasse 11,,47.04482657360507,15.443240265631669,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_233,Trinkbrunnen Marburger Kai 43,Trinkbrunnen,Trinkbrunnen,Marburger Kai 43,,47.06861160878156,15.435631607924284,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_234,Trinkbrunnen Starhemberggasse 32,Trinkbrunnen,Trinkbrunnen,Starhemberggasse 32,,47.075147992593664,15.408665178811761,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_235,Trinkbrunnen Grüne Gasse 17,Trinkbrunnen,Trinkbrunnen,Grüne Gasse 17,,47.079954080430426,15.426536355341403,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_236,Trinkbrunnen Hauptplatz 2,Trinkbrunnen,Trinkbrunnen,Hauptplatz 2,,47.07076870443205,15.438544141305597,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_237,Trinkbrunnen Schillerplatz 1,Trinkbrunnen,Trinkbrunnen,Schillerplatz 1,,47.068802647072026,15.459110896341913,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_238,Trinkbrunnen Kärntner Straße 394,Trinkbrunnen,Trinkbrunnen,Kärntner Straße 394,,47.02461810368045,15.400473376730025,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_239,Trinkbrunnen Thalstraße 145,Trinkbrunnen,Trinkbrunnen,Thalstraße 145,,47.0970612556757,15.375990887147887,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_240,Trinkbrunnen Eggenberger Allee 86,Trinkbrunnen,Trinkbrunnen,Eggenberger Allee 86,,47.07249606201492,15.395405869239962,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_241,Trinkbrunnen Volksgartenstraße 11,Trinkbrunnen,Trinkbrunnen,Volksgartenstraße 11,,47.073607510706005,15.427059999885207,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_242,Trinkbrunnen Am Steinfeld 3,Trinkbrunnen,Trinkbrunnen,Am Steinfeld 3,,47.06369767356321,15.415568055644595,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_243,Trinkbrunnen Franz-Steiner-Gasse 20,Trinkbrunnen,Trinkbrunnen,Franz-Steiner-Gasse 20,,47.0723932690908,15.402857606324757,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_244,Trinkbrunnen Südtiroler Platz 4,Trinkbrunnen,Trinkbrunnen,Südtiroler Platz 4,,47.07096999182719,15.433662221276503,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_246,Trinkbrunnen Leechgasse 22,Trinkbrunnen,Trinkbrunnen,Leechgasse 22,,47.076390817991935,15.453307572402228,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_247,Trinkbrunnen Fischeraustraße 1a,Trinkbrunnen,Trinkbrunnen,Fischeraustraße 1a,,47.09332182700055,15.41152319645354,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_248,Trinkbrunnen Hauseggerstraße 70,Trinkbrunnen,Trinkbrunnen,Hauseggerstraße 70,,47.067947979746066,15.397380303279366,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_249,Trinkbrunnen Kalkleitenstraße,Trinkbrunnen,Trinkbrunnen,Kalkleitenstraße,,47.151553731231516,15.435366626150591,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-fountain_250,Trinkbrunnen Engelsdorfer Straße 30,Trinkbrunnen,Trinkbrunnen,Engelsdorfer Straße 30,,47.03291738000742,15.460257274761071,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0
-park_4054787,Augarten,Park/Gruenraum,park,,,47.0619032,15.4361655,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_4099920,Felix-Dahn-Platz,Park/Gruenraum,park,,,47.0665538,15.4532803,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_4273007,Tegetthoffplatz,Park/Gruenraum,park,,,47.0765848,15.4588876,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_4545930,Schillerplatz,Park/Gruenraum,park,,,47.0687339,15.4593506,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_4882491,Margaretenbad,Park/Gruenraum,water_park,,,47.0808432,15.4436773,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_8068031,Schloss Eggenberg,Park/Gruenraum,park,,,47.0737432,15.3936573,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_23611026,Oeverseepark,Park/Gruenraum,park,,,47.0639509,15.4275568,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_23621642,Gemeindepark Eggenberg,Park/Gruenraum,park,,,47.0686008,15.4021943,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_24328752,Harmsdorfpark,Park/Gruenraum,park,,,47.0512253,15.4574344,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_24418894,Helene-Serfecz-Platz,Park/Gruenraum,park,,,47.0645256,15.4052251,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_24832827,Schererpark,Park/Gruenraum,park,,,47.0575221,15.3963411,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_24878180,Straßganger Bad,Park/Gruenraum,water_park,,,47.0252982,15.3957232,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_25491088,Hofbauerplatz,Park/Gruenraum,park,,,47.0726849,15.4027237,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_25651350,Fröbelpark,Park/Gruenraum,park,,,47.083467,15.4187219,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_25652130,Volksgarten,Park/Gruenraum,park,,,47.0732776,15.4272582,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_25669871,Annaplatz,Park/Gruenraum,park,,,47.0800496,15.3960266,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_25720102,Gorbachplatz,Park/Gruenraum,park,,,47.0665606,15.435912,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_25720107,Josef-Pongratz-Platz,Park/Gruenraum,park,,,47.0659136,15.4358245,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_25867348,Burggarten,Park/Gruenraum,park,,,47.0729493,15.4438132,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_27074650,August-Matthey-Park,Park/Gruenraum,park,,,47.0709101,15.4565639,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_27074654,Lessing-Park,Park/Gruenraum,park,,,47.0708125,15.4509289,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_29713811,Metahofpark,Park/Gruenraum,park,,,47.0723919,15.4218255,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_29715858,Dr.-Schlossar-Park,Park/Gruenraum,park,,,47.0518277,15.4313609,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_29715867,Sankt Johannes - Park,Park/Gruenraum,park,,,47.0488764,15.4258768,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_32733875,Dechant-Binder-Anlage,Park/Gruenraum,park,,,47.093125,15.3995741,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_59102658,Friedenspark,Park/Gruenraum,park,,,47.0825918,15.4180109,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_69995106,Augartenbad,Park/Gruenraum,water_park,,,47.0588576,15.4358652,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_71961003,Grün- und Sportanlage Dominikanergrund,Park/Gruenraum,park,,,47.0619118,15.4531723,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_74662571,Rösselmühlpark,Park/Gruenraum,park,,,47.0664377,15.428129,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_88143684,Baumhain Reininghaus,Park/Gruenraum,park,,,47.0579936,15.4075729,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_94337860,Bezirkssportplatz St. Vinzenz,Park/Gruenraum,park,,,47.0763429,15.4043596,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_96700820,Maß-Mensch-Park,Park/Gruenraum,park,,,47.0630296,15.4701626,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_108004875,Kalvarienberg,Park/Gruenraum,park,,,47.0930915,15.4177542,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_109127016,Schmetterlingsgarten,Park/Gruenraum,park,,,47.0653091,15.4295031,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_109127018,Garten der Sinne,Park/Gruenraum,park,,,47.0647565,15.4293126,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_109696193,Therapiepark,Park/Gruenraum,park,,,47.0643689,15.4291948,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_113969111,Barbara-Frischmuth-Park,Park/Gruenraum,park,,,47.0743103,15.4517453,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_138784742,Nikolaiplatz,Park/Gruenraum,park,,,47.0680389,15.4342363,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_161998099,Rielteich,Park/Gruenraum,nature_reserve,,,47.117354,15.4198098,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_162588273,Bubble Park,Park/Gruenraum,park,,,47.0592475,15.4320368,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_168243671,Volkskundemuseum Garten,Park/Gruenraum,recreation_ground,,,47.0749468,15.4399733,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_169075318,Andritzer Obst- und Naschgarten,Park/Gruenraum,park,,,47.1045028,15.4199061,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_176704761,FKK Bad Straßgang,Park/Gruenraum,recreation_ground,,,47.025941,15.3951179,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_184758456,Dagmar-Grage-Park,Park/Gruenraum,park,,,47.0988263,15.4201456,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_188079083,Steyrergasse-Park,Park/Gruenraum,park,,,47.0635681,15.451084,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_203914103,Meranpark,Park/Gruenraum,park,,,47.0729172,15.4495134,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_241085353,Dornschneiderwiese,Park/Gruenraum,recreation_ground,,,47.0487423,15.4297965,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_244607182,Löseranlage,Park/Gruenraum,park,,,47.1005373,15.3945671,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_315921324,Liebenauer Park,Park/Gruenraum,park,,,47.0303281,15.4632846,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_332634767,neuer Attemsgarten,Park/Gruenraum,park,,,47.0800586,15.448292,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_352749431,Nikolaus-Harnoncourt-Park Ost,Park/Gruenraum,park,,,47.0812426,15.4109735,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_505627652,Dorfplatz,Park/Gruenraum,village_green,,,47.0426041,15.4168046,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_505627653,Dorfplatz,Park/Gruenraum,village_green,,,47.0429491,15.4167672,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_552451775,Kepler Garten,Park/Gruenraum,park,,,47.0763216,15.4315281,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_561060923,Floßlendplatz,Park/Gruenraum,park,,,47.0835577,15.4248299,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_572846068,Kreuzschwestern-Park,Park/Gruenraum,park,,,47.0823618,15.4400819,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_573479429,Leechpark,Park/Gruenraum,park,,,47.0757081,15.446599,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_573494592,Geidorf Senior:innenzentrum Park,Park/Gruenraum,park,,,47.0847011,15.4308199,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_678023946,Am Naturdenkmal Platane,Park/Gruenraum,park,,,47.0787866,15.4603601,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_689441390,Eustacchiopark,Park/Gruenraum,park,,,47.0608076,15.477199,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_703187651,Ehemaliger Verkehrserziehungs-Park,Park/Gruenraum,recreation_ground,,,47.0740814,15.4428264,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_703188990,Stadtpark,Park/Gruenraum,park,,,47.073775,15.4438725,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_703836082,Park Augustinum,Park/Gruenraum,park,,,47.0823216,15.4365835,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_710495165,Ökopark Fekonja,Park/Gruenraum,park,,,47.0559036,15.4439634,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_713948038,Platz der Versöhnung,Park/Gruenraum,recreation_ground,,,47.0757265,15.4425386,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_718489703,Schlosspark,Park/Gruenraum,park,,,47.112396,15.4057904,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_733709124,Anna-Cadia-Park,Park/Gruenraum,park,,,47.0767536,15.407966,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_746350657,Reininghauspark,Park/Gruenraum,park,,,47.0621364,15.4095016,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_751980067,Maria-Cäsar-Park,Park/Gruenraum,park,,,47.0457906,15.4439747,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_813042328,Hedwig-Ehmann-Park,Park/Gruenraum,park,,,47.0382149,15.4563676,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_902361884,Auenpark,Park/Gruenraum,park,,,47.1100874,15.4268634,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_933223166,Wagner-Jauregg-Platz,Park/Gruenraum,park,,,47.0397888,15.4161341,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_966308271,Olympiawiese,Park/Gruenraum,park,,,47.0389095,15.4454526,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_987677214,Schörgelpark,Park/Gruenraum,park,,,47.0657216,15.4597919,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1033200517,FKK,Park/Gruenraum,recreation_ground,,,47.0768102,15.4857781,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1065893591,Sieben-Hügel-Park,Park/Gruenraum,park,,,47.047544,15.398762,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1086712431,Peter-Rosegger-Park,Park/Gruenraum,park,,,47.0548104,15.4038073,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1117115945,Martha-Stadler-Park,Park/Gruenraum,park,,,47.0245214,15.4039973,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1119392408,Dr.-Hans-Spitzy-Platzl,Park/Gruenraum,park,,,47.0517675,15.4301289,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1156961557,Gertie-Pakesch-Kaan-Park,Park/Gruenraum,park,,,47.0749853,15.4089017,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1187612534,Technikerpark,Park/Gruenraum,park,,,47.0686057,15.4500327,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1188331419,Naturschutzgebiet Am Josefbach - Bullmanngrund,Park/Gruenraum,nature_reserve,,,47.105101,15.4647639,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1193135582,Ausgleichsfläche Puchleitnerweg,Park/Gruenraum,recreation_ground,,,47.1171358,15.433807,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1204487802,Wasserturmpark,Park/Gruenraum,park,,,47.0732632,15.4137495,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1206740870,Anton-Lippe-Platz,Park/Gruenraum,park,,,47.0470292,15.451073,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1210247259,neuer Attemsgarten,Park/Gruenraum,park,,,47.0800998,15.4473715,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1305971350,Ivanka-Gruber-Park,Park/Gruenraum,park,,,47.0517062,15.4431194,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1411909420,Annemarie-Zdarsky-Park,Park/Gruenraum,park,,,47.0261879,15.4274762,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1420169947,Hasenheide,Park/Gruenraum,park,,,47.0540209,15.4539287,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1442600511,Lore-Krainer-Park,Park/Gruenraum,park,,,47.0828769,15.4151187,no,OpenStreetMap (via Overpass API),ODbL 1.0
-park_1501767307,Wormspitz,Park/Gruenraum,park,,,47.0792824,15.4422105,no,OpenStreetMap (via Overpass API),ODbL 1.0
-library_15,Stadtbibliothek Gösting,Bibliothek,Bibliothek,Wiener Straße 255,8051,47.09395649668783,15.405398514268597,no,Stadt Graz OGD - Bibliotheken,CC BY 4.0
-library_16,Mediathek,Bibliothek,Bibliothek,Vorbeckgasse 12,8020,47.06987517255398,15.431032211364379,no,Stadt Graz OGD - Bibliotheken,CC BY 4.0
-library_17,Stadtbibliothek Ost-Schillerstraße,Bibliothek,Bibliothek,Schillerstraße 53,8010,47.069416551366686,15.458682199297526,no,Stadt Graz OGD - Bibliotheken,CC BY 4.0
-library_18,"Stadtbibliothek Zanklhof, Hauptbibliothek",Bibliothek,Bibliothek,Maria-Stromberger-Gasse 2,8020,47.06983239490147,15.431464828878543,yes,Stadt Graz OGD - Bibliotheken,CC BY 4.0
-library_19,Stadtbibliothek West-Eggenberg,Bibliothek,Bibliothek,Eggenberger Allee 13a,8020,47.069794962341064,15.407131218796927,yes,Stadt Graz OGD - Bibliotheken,CC BY 4.0
-library_20,Stadtbibliothek Nord-Geidorf,Bibliothek,Bibliothek,Theodor-Körner-Straße 59,8010,47.08356330359162,15.431971699313998,yes,Stadt Graz OGD - Bibliotheken,CC BY 4.0
-library_21,Stadtbibliothek Andritz,Bibliothek,Bibliothek,Grazer Straße 54,8045,47.10260203672344,15.421288149612476,no,Stadt Graz OGD - Bibliotheken,CC BY 4.0
-library_22,Stadtbibliothek Süd-Lauzilgasse,Bibliothek,Bibliothek,Lauzilgasse 21,8020,47.04574246850118,15.432552622154512,no,Stadt Graz OGD - Bibliotheken,CC BY 4.0
-church_1646,Münzgraben-Kirche,Kirche,Kirche,Münzgrabenstraße 61/Kirche,8010,47.06159928895854,15.452109901889315,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0
-church_1651,Röm.-kath. Pfarre Mariahilf,Kirche,Kirche,Mariahilferplatz 3,8020,47.07273532774005,15.433229134619033,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0
-church_1663,Röm.-kath. Pfarre St.Andrä,Kirche,Kirche,Maria-Stromberger-Gasse 9,8020,47.069756488875335,15.429718823776224,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0
-church_1664,Röm.-kath. Pfarre St.Josef,Kirche,Kirche,Schönaugürtel 41,8010,47.05881082485882,15.44102440015797,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0
-church_1682,Röm.-kath. Stadtpfarre zum Hl.Blut,Kirche,Kirche,Herrengasse 23,8010,47.06916151622569,15.441266295580052,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0
-church_1704,Röm.-kath. Dompfarre St. Ägidius,Kirche,Kirche,Bürgergasse 1,8010,47.0714384149794,15.442199164093164,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0
-church_1706,Röm.-kath. Franziskanerkirche,Kirche,Kirche,Franziskanerplatz 14,8010,47.07044576551623,15.436988771242811,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0
-church_1732,Barmherzigenkirche,Kirche,Kirche,Annenstraße 2,8020,47.07128792578717,15.432040900662487,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0
-church_1737,"Röm.-kath. Pfarre Schmerzhafte Mutter, Lazaristenkriche",Kirche,Kirche,Mariengasse 31,8020,47.07637250853323,15.421142730975562,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0
-church_1762,Herz-Jesu-Kirche,Kirche,Kirche,Sparbersbachgasse 58,8010,47.06962675526667,15.455735049489604,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0
-wasserspiel_1,Wasserspielplatz Theodor-Körner-Straße,Wasserspielplatz,Wasserspielplatz,Theodor-Körner-Straße 59,8010,47.0942093,15.4237645,no,Stadt Graz OGD / Mamilade,CC BY 4.0
-wasserspiel_2,Wasserspielplatz Tändelwiese,Wasserspielplatz,Wasserspielplatz,Auf der Tändelwiese 8,8020,47.052327,15.431239,no,Stadt Graz / Freizeitinfo.at,CC BY 4.0
-wasserspiel_3,Wasserspielplatz Langedelwehr,Wasserspielplatz,Wasserspielplatz,Am Langedelwehr,8010,47.0556638,15.4371868,no,Stadt Graz / Freizeitinfo.at,CC BY 4.0
-spruehnebel_1,Spruehnebel-Lanze Bad zur Sonne,Spruehnebel-Lanze,Spruehnebel-Lanze,Feuerbachgasse 11,8020,47.069571,15.432376,no,Stadt Graz / Holding Graz,CC BY 4.0
-spruehnebel_2,Spruehnebel-Lanze Schmiedgasse,Spruehnebel-Lanze,Spruehnebel-Lanze,Schmiedgasse 26,8010,47.071,15.439,no,Stadt Graz / Holding Graz,CC BY 4.0
+id,name,category,subcategory,address,plz,lat,lon,coole_raeume,source,license,opening_hours
+fountain_1,Trinkbrunnen Peter-Rosegger-Straße 27,Trinkbrunnen,Trinkbrunnen,Peter-Rosegger-Straße 27,8020,47.05368644815697,15.408617230898946,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_2,Trinkbrunnen St.-Peter-Pfarrweg 21,Trinkbrunnen,Trinkbrunnen,St.-Peter-Pfarrweg 21,8010,47.063166922013814,15.472302259640765,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_4,Trinkbrunnen Körösistraße 29c,Trinkbrunnen,Trinkbrunnen,Körösistraße 29c,8010,47.080980330130444,15.431222375099843,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_5,Trinkbrunnen Ekkehard-Hauer-Straße 33,Trinkbrunnen,Trinkbrunnen,Ekkehard-Hauer-Straße 33,8020,47.0498821097441,15.391086359120646,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_7,Trinkbrunnen Rosenhain 3,Trinkbrunnen,Trinkbrunnen,Rosenhain 3,8010,47.08361844360176,15.451866762260781,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_8,Trinkbrunnen Lagergasse 372,Trinkbrunnen,Trinkbrunnen,Lagergasse 372,8020,47.036051175182,15.44491527004233,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_9,Trinkbrunnen Reininghausstraße 5a,Trinkbrunnen,Trinkbrunnen,Reininghausstraße 5a,8020,47.065757907722016,15.409727134676784,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_10,Trinkbrunnen Karmeliterplatz 6,Trinkbrunnen,Trinkbrunnen,Karmeliterplatz 6,8010,47.073927189694444,15.44032057824733,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_11,Trinkbrunnen Burggasse 2a,Trinkbrunnen,Trinkbrunnen,Burggasse 2a,8010,47.07179964023817,15.442931815059648,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_14,Trinkbrunnen Eduard-Keil-Gasse 86,Trinkbrunnen,Trinkbrunnen,Eduard-Keil-Gasse 86,8010,47.04151103579663,15.44445303513573,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_15,Trinkbrunnen Jochen-Rindt-Platz,Trinkbrunnen,Trinkbrunnen,Jochen-Rindt-Platz,8020,47.0591317237945,15.411981541474105,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_19,Trinkbrunnen Wagner-Jauregg-Platz 1,Trinkbrunnen,Trinkbrunnen,Wagner-Jauregg-Platz 1,8020,47.03879572172367,15.41817565595279,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_20,Trinkbrunnen Sauraugasse 14,Trinkbrunnen,Trinkbrunnen,Sauraugasse 14,8010,47.07445804710102,15.442748298972841,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_21,Trinkbrunnen Tannhofweg 2,Trinkbrunnen,Trinkbrunnen,Tannhofweg 2,8010,47.104037826854075,15.490040822582205,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_22,Trinkbrunnen Pula Kai,Trinkbrunnen,Trinkbrunnen,Pula Kai,8010,47.06092731229243,15.434984782916368,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_23,Trinkbrunnen Pula Kai,Trinkbrunnen,Trinkbrunnen,Pula Kai,8010,47.06100497959513,15.436216002266455,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_24,Trinkbrunnen Ziegelstraße 33a,Trinkbrunnen,Trinkbrunnen,Ziegelstraße 33a,8045,47.101414454841525,15.431407686944938,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_25,Trinkbrunnen Waagner-Biro-Straße 104,Trinkbrunnen,Trinkbrunnen,Waagner-Biro-Straße 104,8020,47.080835967056956,15.410433282603949,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_26,Trinkbrunnen Stiftingtalstraße 4,Trinkbrunnen,Trinkbrunnen,Stiftingtalstraße 4,8010,47.07954190831058,15.468254948076039,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_28,Trinkbrunnen Gritzenweg 1,Trinkbrunnen,Trinkbrunnen,Gritzenweg 1,8020,47.06433485575291,15.387343860422261,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_29,Trinkbrunnen Griesplatz 36,Trinkbrunnen,Trinkbrunnen,Griesplatz 36,8020,47.06694126702718,15.431753363015345,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_31,Trinkbrunnen Hofgasse 16,Trinkbrunnen,Trinkbrunnen,Hofgasse 16,8010,47.07230660842117,15.441570335922139,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_33,Trinkbrunnen Waagner-Biro-Straße 132,Trinkbrunnen,Trinkbrunnen,Waagner-Biro-Straße 132,8020,47.08226998904252,15.409681248793309,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_35,Trinkbrunnen Andersengasse 42,Trinkbrunnen,Trinkbrunnen,Andersengasse 42,8010,47.04548763983924,15.445061974147853,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_36,Trinkbrunnen Kehlbergstraße 36,Trinkbrunnen,Trinkbrunnen,Kehlbergstraße 36,8020,47.036093505541814,15.388376043965714,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_37,Trinkbrunnen Am Jägergrund 17,Trinkbrunnen,Trinkbrunnen,Am Jägergrund 17,8020,47.04163951545437,15.399144859012445,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_38,Trinkbrunnen Fröhlichgasse 108,Trinkbrunnen,Trinkbrunnen,Fröhlichgasse 108,8010,47.052273546796144,15.439838875628276,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_41,Trinkbrunnen Angergasse 43,Trinkbrunnen,Trinkbrunnen,Angergasse 43,8010,47.047002488183395,15.44299481578563,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_44,Trinkbrunnen Wagner-Jauregg-Platz 1,Trinkbrunnen,Trinkbrunnen,Wagner-Jauregg-Platz 1,8020,47.03599978859937,15.421461470006957,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_45,Trinkbrunnen Dominikanergasse 1,Trinkbrunnen,Trinkbrunnen,Dominikanergasse 1,8020,47.070876755563084,15.430517143576443,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_46,Trinkbrunnen Jakominiplatz 16,Trinkbrunnen,Trinkbrunnen,Jakominiplatz 16,8010,47.06727950630578,15.442237735255343,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_47,Trinkbrunnen Waltendorfer Hauptstraße 31a,Trinkbrunnen,Trinkbrunnen,Waltendorfer Hauptstraße 31a,8010,47.06671320816613,15.468894572073834,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_48,Trinkbrunnen Wagner-Jauregg-Platz 1,Trinkbrunnen,Trinkbrunnen,Wagner-Jauregg-Platz 1,8020,47.03825565955981,15.41976778628917,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_52,Trinkbrunnen Halbärthgasse 16,Trinkbrunnen,Trinkbrunnen,Halbärthgasse 16,8010,47.07611140296688,15.450142871545651,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_53,Trinkbrunnen Landhausgasse 3,Trinkbrunnen,Trinkbrunnen,Landhausgasse 3,8010,47.06965171387819,15.438520306375755,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_55,Trinkbrunnen Wachtelgasse 23,Trinkbrunnen,Trinkbrunnen,Wachtelgasse 23,8020,47.05442529581001,15.403386564029393,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_58,Trinkbrunnen Schloßberg 3,Trinkbrunnen,Trinkbrunnen,Schloßberg 3,8010,47.073914619196806,15.437378802089265,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_59,Trinkbrunnen Anton-Kleinoscheg-Straße 1,Trinkbrunnen,Trinkbrunnen,Anton-Kleinoscheg-Straße 1,8051,47.10043871171456,15.39442359891312,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_62,Trinkbrunnen Kanalweg,Trinkbrunnen,Trinkbrunnen,Kanalweg,8020,46.99813872846883,15.46842143670118,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_63,Trinkbrunnen Lagergasse 257,Trinkbrunnen,Trinkbrunnen,Lagergasse 257,8020,47.04657428071274,15.441065895707657,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_64,Trinkbrunnen Reininghauspark 5,Trinkbrunnen,Trinkbrunnen,Reininghauspark 5,8020,47.061889744143265,15.410483853155878,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_65,Trinkbrunnen Naglergasse 9,Trinkbrunnen,Trinkbrunnen,Naglergasse 9,8010,47.07073252693265,15.451199872251106,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_67,Trinkbrunnen Neuholdaugasse 18,Trinkbrunnen,Trinkbrunnen,Neuholdaugasse 18,8010,47.059992398100064,15.436285549792984,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_68,Trinkbrunnen Schützgasse 13,Trinkbrunnen,Trinkbrunnen,Schützgasse 13,8020,47.058767857194134,15.432303850054184,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_69,Trinkbrunnen Angergasse 1,Trinkbrunnen,Trinkbrunnen,Angergasse 1,8010,47.051962935046184,15.43875336000865,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_70,Trinkbrunnen Wagner-Jauregg-Platz 1,Trinkbrunnen,Trinkbrunnen,Wagner-Jauregg-Platz 1,8020,47.04070544218257,15.41469233904417,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_71,Trinkbrunnen Lendkai 15,Trinkbrunnen,Trinkbrunnen,Lendkai 15,8020,47.07226944787075,15.434078697807355,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_72,Trinkbrunnen Harmsdorfgasse 12,Trinkbrunnen,Trinkbrunnen,Harmsdorfgasse 12,8010,47.05101993556308,15.456468710652873,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_73,Trinkbrunnen Petrifelderstraße 39,Trinkbrunnen,Trinkbrunnen,Petrifelderstraße 39,8010,47.05043199931923,15.469723318422082,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_74,Trinkbrunnen Hafnerstraße,Trinkbrunnen,Trinkbrunnen,Hafnerstraße,8020,47.02483780006312,15.403730584333461,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_75,Trinkbrunnen Schererstraße 11,Trinkbrunnen,Trinkbrunnen,Schererstraße 11,8020,47.057535252091164,15.396553907474349,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_76,Trinkbrunnen UNESCO-Esplanade 6,Trinkbrunnen,Trinkbrunnen,UNESCO-Esplanade 6,8020,47.0647985922452,15.410364909193511,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_77,Trinkbrunnen Theodor-Körner-Straße 160,Trinkbrunnen,Trinkbrunnen,Theodor-Körner-Straße 160,8010,47.09258998094641,15.42548870001566,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_78,Trinkbrunnen Olga-Rudel-Zeynek-Gasse 23,Trinkbrunnen,Trinkbrunnen,Olga-Rudel-Zeynek-Gasse 23,8020,47.03753600208367,15.392847532448,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_79,Trinkbrunnen Kantgasse 15,Trinkbrunnen,Trinkbrunnen,Kantgasse 15,8020,47.04883104174364,15.426163072504071,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_80,Trinkbrunnen Andritzer Reichsstraße 97,Trinkbrunnen,Trinkbrunnen,Andritzer Reichsstraße 97,8045,47.109030443897765,15.412390843849074,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_82,Trinkbrunnen Schulgasse 22,Trinkbrunnen,Trinkbrunnen,Schulgasse 22,8010,47.06739331294554,15.466413806503404,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_83,Trinkbrunnen Ortweinplatz 2,Trinkbrunnen,Trinkbrunnen,Ortweinplatz 2,8010,47.063348913838915,15.44375270684295,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_84,Trinkbrunnen Am Wagrain 10,Trinkbrunnen,Trinkbrunnen,Am Wagrain 10,8020,47.04772356395476,15.419460971577575,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_85,Trinkbrunnen Georgigasse 51,Trinkbrunnen,Trinkbrunnen,Georgigasse 51,8020,47.073030450350196,15.401076242536849,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_87,Trinkbrunnen Radetzkystraße 15,Trinkbrunnen,Trinkbrunnen,Radetzkystraße 15,8010,47.066585737689785,15.439031412827866,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_91,Trinkbrunnen Bahnhofgürtel 85,Trinkbrunnen,Trinkbrunnen,Bahnhofgürtel 85,8020,47.07193246871762,15.418722935436648,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_92,Trinkbrunnen Volksgartenstraße 11,Trinkbrunnen,Trinkbrunnen,Volksgartenstraße 11,8020,47.07384548248918,15.426043862992362,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_94,Trinkbrunnen Vinzenzgasse 56,Trinkbrunnen,Trinkbrunnen,Vinzenzgasse 56,8020,47.07636210710105,15.404732075372147,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_96,Trinkbrunnen Martinhofstraße 88,Trinkbrunnen,Trinkbrunnen,Martinhofstraße 88,8020,47.034815206060514,15.392861119067986,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_97,Trinkbrunnen Gasometerweg 3,Trinkbrunnen,Trinkbrunnen,Gasometerweg 3,8020,47.02743683850845,15.45206476794092,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_99,Trinkbrunnen Leuzenhofgasse 4,Trinkbrunnen,Trinkbrunnen,Leuzenhofgasse 4,8020,47.08233217668845,15.418147551416043,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_100,Trinkbrunnen Josef-Huber-Gasse 28,Trinkbrunnen,Trinkbrunnen,Josef-Huber-Gasse 28,8020,47.06599109781325,15.422741205754045,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_101,Trinkbrunnen Wagner-Jauregg-Platz 1,Trinkbrunnen,Trinkbrunnen,Wagner-Jauregg-Platz 1,8020,47.03666217533826,15.419659510982234,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_102,Trinkbrunnen Radetzkystraße 33,Trinkbrunnen,Trinkbrunnen,Radetzkystraße 33,8010,47.066129086596035,15.435303222483707,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_103,Trinkbrunnen Augasse 118,Trinkbrunnen,Trinkbrunnen,Augasse 118,8051,47.09661033734317,15.41434152341259,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_104,Trinkbrunnen Grillweg 8,Trinkbrunnen,Trinkbrunnen,Grillweg 8,8020,47.040307622428045,15.411550952678011,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_105,Trinkbrunnen Engelsdorfer Straße 54,Trinkbrunnen,Trinkbrunnen,Engelsdorfer Straße 54,8010,47.030503584103435,15.461291304710711,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_106,Trinkbrunnen Lagergasse 380,Trinkbrunnen,Trinkbrunnen,Lagergasse 380,8020,47.03459621573413,15.44611871040556,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_107,Trinkbrunnen Muchargasse 41,Trinkbrunnen,Trinkbrunnen,Muchargasse 41,8010,47.07958577056706,15.433892526827515,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_108,Trinkbrunnen Messeplatz 2,Trinkbrunnen,Trinkbrunnen,Messeplatz 2,8010,47.056291243551655,15.447597701113574,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_109,Trinkbrunnen Schwimmschulkai 108,Trinkbrunnen,Trinkbrunnen,Schwimmschulkai 108,8010,47.08631551600203,15.424946765104929,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_110,Trinkbrunnen Olga-Rudel-Zeynek-Gasse 10,Trinkbrunnen,Trinkbrunnen,Olga-Rudel-Zeynek-Gasse 10,8020,47.03780199427946,15.394123350767167,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_111,Trinkbrunnen Grottenhofstraße 32,Trinkbrunnen,Trinkbrunnen,Grottenhofstraße 32,8020,47.047580317798484,15.401091361726927,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_112,Trinkbrunnen Conrad-von-Hötzendorf-Straße 171,Trinkbrunnen,Trinkbrunnen,Conrad-von-Hötzendorf-Straße 171,8010,47.047712573661315,15.454488600504531,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_113,Trinkbrunnen Salfeldstraße 25b,Trinkbrunnen,Trinkbrunnen,Salfeldstraße 25b,8020,47.03217772036342,15.396206456103297,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_114,Trinkbrunnen Oeverseegasse 26,Trinkbrunnen,Trinkbrunnen,Oeverseegasse 26,8020,47.063783756955516,15.4274463078038,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_115,Trinkbrunnen Maria-Theresia-Allee 5,Trinkbrunnen,Trinkbrunnen,Maria-Theresia-Allee 5,8010,47.077201448116305,15.442162688770763,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_116,Trinkbrunnen Ruckerlberggasse 20,Trinkbrunnen,Trinkbrunnen,Ruckerlberggasse 20,8010,47.0677892839888,15.460431663649418,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_117,Trinkbrunnen Am Eichengrund 12,Trinkbrunnen,Trinkbrunnen,Am Eichengrund 12,8045,47.11543848424493,15.42136046633547,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_118,Trinkbrunnen Eichbachgasse 181,Trinkbrunnen,Trinkbrunnen,Eichbachgasse 181,8010,47.01419504023795,15.46448768214213,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_121,Trinkbrunnen Esperantoplatz 1,Trinkbrunnen,Trinkbrunnen,Esperantoplatz 1,8020,47.071460813521426,15.424467633961799,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_123,Trinkbrunnen Rösselmühlgasse 22,Trinkbrunnen,Trinkbrunnen,Rösselmühlgasse 22,8020,47.06647736359076,15.428095605394178,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_126,Trinkbrunnen Kratkystraße 6b,Trinkbrunnen,Trinkbrunnen,Kratkystraße 6b,8020,47.06026430072016,15.412243777005209,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_127,Trinkbrunnen Wasserwerkgasse 9,Trinkbrunnen,Trinkbrunnen,Wasserwerkgasse 9,8045,47.10168354896848,15.413730653864501,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_128,Trinkbrunnen Friedrichgasse 34,Trinkbrunnen,Trinkbrunnen,Friedrichgasse 34,8010,47.06300257215198,15.436535974313887,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_129,Trinkbrunnen Straßganger Straße 429,Trinkbrunnen,Trinkbrunnen,Straßganger Straße 429,8020,47.03261565234641,15.399949871805477,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_132,Trinkbrunnen Plattensteig 20c,Trinkbrunnen,Trinkbrunnen,Plattensteig 20c,8010,47.112343253144964,15.469753509164825,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_134,Trinkbrunnen Mariahilferstraße 32,Trinkbrunnen,Trinkbrunnen,Mariahilferstraße 32,8020,47.07393344903705,15.432534921264114,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_135,Trinkbrunnen Lendkai 159,Trinkbrunnen,Trinkbrunnen,Lendkai 159,8020,47.08282540284697,15.427011457603957,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_137,Trinkbrunnen Volksgartenstraße 11,Trinkbrunnen,Trinkbrunnen,Volksgartenstraße 11,8020,47.07291317667021,15.427989255163466,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_138,Trinkbrunnen Kratkystraße 20d,Trinkbrunnen,Trinkbrunnen,Kratkystraße 20d,8020,47.05904577118957,15.407525570069446,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_139,Trinkbrunnen Tegetthoffplatz 1,Trinkbrunnen,Trinkbrunnen,Tegetthoffplatz 1,8010,47.07637628610517,15.458486512760036,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_140,Trinkbrunnen Trattenweg 10,Trinkbrunnen,Trinkbrunnen,Trattenweg 10,8010,47.052111814016094,15.442253126983582,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_141,Trinkbrunnen Am Fröbelpark 4,Trinkbrunnen,Trinkbrunnen,Am Fröbelpark 4,8020,47.08349624092846,15.41888427113679,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_142,Trinkbrunnen Ragnitzstraße 58b,Trinkbrunnen,Trinkbrunnen,Ragnitzstraße 58b,8010,47.077371054450325,15.48007769158404,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_143,Trinkbrunnen Felix-Dahn-Platz 2,Trinkbrunnen,Trinkbrunnen,Felix-Dahn-Platz 2,8010,47.06660274334912,15.453369740087362,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_144,Trinkbrunnen Grieskai 14,Trinkbrunnen,Trinkbrunnen,Grieskai 14,8020,47.068963361969566,15.434636961998399,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_146,Trinkbrunnen Wasserwerkgasse 10,Trinkbrunnen,Trinkbrunnen,Wasserwerkgasse 10,8045,47.101160614365945,15.411806328577143,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_147,Trinkbrunnen Hafnerriegel 27,Trinkbrunnen,Trinkbrunnen,Hafnerriegel 27,8010,47.06192510445932,15.453081783800242,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_148,Trinkbrunnen Radegunder Straße 221,Trinkbrunnen,Trinkbrunnen,Radegunder Straße 221,8045,47.125503007760656,15.442260435857742,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_149,Trinkbrunnen Schillerstraße 33a,Trinkbrunnen,Trinkbrunnen,Schillerstraße 33a,8010,47.07084717025847,15.45631322044781,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_150,Trinkbrunnen Ivica-Osim-Platz 1,Trinkbrunnen,Trinkbrunnen,Ivica-Osim-Platz 1,8010,47.04621766419609,15.4555710440323,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_151,Trinkbrunnen Lendplatz 39,Trinkbrunnen,Trinkbrunnen,Lendplatz 39,8020,47.07517210665228,15.430738695013433,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_155,Trinkbrunnen Hasnerplatz 12,Trinkbrunnen,Trinkbrunnen,Hasnerplatz 12,8010,47.08322518798149,15.433849208127182,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_156,Trinkbrunnen Rechbauerstraße 4a,Trinkbrunnen,Trinkbrunnen,Rechbauerstraße 4a,8010,47.07007378533205,15.448858078792588,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_158,Trinkbrunnen Zeugamtsweg 21,Trinkbrunnen,Trinkbrunnen,Zeugamtsweg 21,8020,47.0573701946812,15.410800016891049,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_159,Trinkbrunnen Dreierschützengasse 39c,Trinkbrunnen,Trinkbrunnen,Dreierschützengasse 39c,8020,47.076736668520105,15.408234247425424,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_161,Trinkbrunnen Waagner-Biro-Straße 78,Trinkbrunnen,Trinkbrunnen,Waagner-Biro-Straße 78,8020,47.07846990652657,15.41127012859445,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_162,Trinkbrunnen Färbergasse 11,Trinkbrunnen,Trinkbrunnen,Färbergasse 11,8010,47.07159641244756,15.439839298092519,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_163,Trinkbrunnen Pomisgasse 13,Trinkbrunnen,Trinkbrunnen,Pomisgasse 13,8010,47.055352673926194,15.443238922737834,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_164,Trinkbrunnen Daungasse 4,Trinkbrunnen,Trinkbrunnen,Daungasse 4,8020,47.07283511223713,15.41389450906988,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_165,Trinkbrunnen Vinzenzgasse 8,Trinkbrunnen,Trinkbrunnen,Vinzenzgasse 8,8020,47.07157875819872,15.403878515827557,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_166,Trinkbrunnen Nippelgasse 10a,Trinkbrunnen,Trinkbrunnen,Nippelgasse 10a,8020,47.024173036315176,15.42493402716314,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_168,Trinkbrunnen Harmsdorfgasse 68,Trinkbrunnen,Trinkbrunnen,Harmsdorfgasse 68,8010,47.05349016926441,15.46397658280722,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_169,Trinkbrunnen Zeillergasse 6,Trinkbrunnen,Trinkbrunnen,Zeillergasse 6,8020,47.07830075872231,15.428136987093698,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_170,Trinkbrunnen Kirchplatz 7,Trinkbrunnen,Trinkbrunnen,Kirchplatz 7,8010,47.107353270280015,15.491019329783922,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_171,Trinkbrunnen Leuzenhofgasse 4,Trinkbrunnen,Trinkbrunnen,Leuzenhofgasse 4,8020,47.08216116322609,15.418189191514944,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_172,Trinkbrunnen Am Eisernen Tor 10,Trinkbrunnen,Trinkbrunnen,Am Eisernen Tor 10,8010,47.068361956648886,15.441903424380174,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_173,Trinkbrunnen Neugasse 9,Trinkbrunnen,Trinkbrunnen,Neugasse 9,8045,47.09544951278883,15.417584355588852,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_174,Trinkbrunnen Hafnerriegel 27,Trinkbrunnen,Trinkbrunnen,Hafnerriegel 27,8010,47.062093717542126,15.453589335730515,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_177,Trinkbrunnen Sackstraße 20,Trinkbrunnen,Trinkbrunnen,Sackstraße 20,8010,47.07284807869987,15.436243457751983,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_179,Trinkbrunnen Sigmundstadl 47,Trinkbrunnen,Trinkbrunnen,Sigmundstadl 47,8020,47.07498072590503,15.426192184264087,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_180,Trinkbrunnen Hilmteichstraße 70,Trinkbrunnen,Trinkbrunnen,Hilmteichstraße 70,8010,47.083602781293216,15.46037663139743,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_182,Trinkbrunnen Am Rehgrund 22,Trinkbrunnen,Trinkbrunnen,Am Rehgrund 22,8010,47.09447955244407,15.467317079388096,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_183,Trinkbrunnen Babenbergerstraße 10,Trinkbrunnen,Trinkbrunnen,Babenbergerstraße 10,8020,47.07202877276413,15.422084412029559,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_184,Trinkbrunnen Vinzenzgasse 8,Trinkbrunnen,Trinkbrunnen,Vinzenzgasse 8,8020,47.071324739391734,15.404322038704786,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_185,Trinkbrunnen Augasse 130,Trinkbrunnen,Trinkbrunnen,Augasse 130,8051,47.096183810608856,15.411967650456768,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_187,Trinkbrunnen Schloßberg 9,Trinkbrunnen,Trinkbrunnen,Schloßberg 9,8010,47.07664800916943,15.438942292030791,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_188,Trinkbrunnen Roseggerweg 88,Trinkbrunnen,Trinkbrunnen,Roseggerweg 88,8010,47.09427997170068,15.474947540661633,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_189,Trinkbrunnen Plabutscherstraße 123,Trinkbrunnen,Trinkbrunnen,Plabutscherstraße 123,8051,47.09320127998499,15.400088786458523,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_190,Trinkbrunnen Engelsdorfer Straße 57a,Trinkbrunnen,Trinkbrunnen,Engelsdorfer Straße 57a,8010,47.03007951719278,15.462805555716544,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_191,Trinkbrunnen Tiergartenweg 10,Trinkbrunnen,Trinkbrunnen,Tiergartenweg 10,8020,47.04166324222959,15.432918472836226,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_193,Trinkbrunnen Wormgasse 11,Trinkbrunnen,Trinkbrunnen,Wormgasse 11,8010,47.079292148151914,15.442128202233338,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_195,Trinkbrunnen Banngrabenweg 50,Trinkbrunnen,Trinkbrunnen,Banngrabenweg 50,8010,47.04846509078364,15.471024931515828,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_197,Trinkbrunnen Annenstraße 59,Trinkbrunnen,Trinkbrunnen,Annenstraße 59,8020,47.07154577210997,15.4217238429641,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_198,Trinkbrunnen Andritzer Reichsstraße 42b,Trinkbrunnen,Trinkbrunnen,Andritzer Reichsstraße 42b,8045,47.10302284288293,15.421857203731474,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_199,Trinkbrunnen Grasbergerstraße 18,Trinkbrunnen,Trinkbrunnen,Grasbergerstraße 18,8020,47.06850250159223,15.40245698535111,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_201,Trinkbrunnen Dornschneidergasse 45,Trinkbrunnen,Trinkbrunnen,Dornschneidergasse 45,8020,47.049059031072545,15.43020272809255,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_203,Trinkbrunnen Lastenstraße 14a,Trinkbrunnen,Trinkbrunnen,Lastenstraße 14a,8020,47.08314533426197,15.41518680499401,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_205,Trinkbrunnen Auersperggasse 19,Trinkbrunnen,Trinkbrunnen,Auersperggasse 19,8010,47.08196482711686,15.460185315450339,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_206,Trinkbrunnen Augasse 16,Trinkbrunnen,Trinkbrunnen,Augasse 16,8051,47.09504148800989,15.416703287719445,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_207,Trinkbrunnen Reininghausstraße 81a,Trinkbrunnen,Trinkbrunnen,Reininghausstraße 81a,8020,47.06063613117224,15.39608824648838,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_209,Trinkbrunnen Burenstraße 82,Trinkbrunnen,Trinkbrunnen,Burenstraße 82,8020,47.06063195197299,15.392473067382351,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_210,Trinkbrunnen Grillparzerstraße 10,Trinkbrunnen,Trinkbrunnen,Grillparzerstraße 10,8010,47.081063093518324,15.443273585447754,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_211,Trinkbrunnen Neutorgasse 5,Trinkbrunnen,Trinkbrunnen,Neutorgasse 5,8010,47.070623362558294,15.43578502652985,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_212,Trinkbrunnen Rohrbachergasse 12,Trinkbrunnen,Trinkbrunnen,Rohrbachergasse 12,8045,47.104375260904895,15.420152259492351,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_213,Trinkbrunnen Grazer Straße 7,Trinkbrunnen,Trinkbrunnen,Grazer Straße 7,8045,47.098667935628015,15.419357058427407,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_214,Trinkbrunnen Am Steinfeld 13,Trinkbrunnen,Trinkbrunnen,Am Steinfeld 13,8020,47.06223250951346,15.411361984477303,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_215,Trinkbrunnen Darmstadtgasse 15,Trinkbrunnen,Trinkbrunnen,Darmstadtgasse 15,8020,47.078264418312926,15.422532880875092,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_217,Trinkbrunnen Oberer Plattenweg 7,Trinkbrunnen,Trinkbrunnen,Oberer Plattenweg 7,8010,47.09670653990952,15.445125785111346,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_219,Trinkbrunnen Stremayrgasse 10,Trinkbrunnen,Trinkbrunnen,Stremayrgasse 10,8010,47.06463216518002,15.451600815083296,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_220,Trinkbrunnen Oeverseegasse 12,Trinkbrunnen,Trinkbrunnen,Oeverseegasse 12,8020,47.064403721798136,15.427412839660326,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_223,Trinkbrunnen Grieskai 104,Trinkbrunnen,Trinkbrunnen,Grieskai 104,8020,47.05912371216256,15.434344926361375,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_224,Trinkbrunnen St.-Peter-Pfarrweg 35,Trinkbrunnen,Trinkbrunnen,St.-Peter-Pfarrweg 35,8010,47.06166149679929,15.472423172410181,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_225,Trinkbrunnen Waagner-Biro-Straße 104,Trinkbrunnen,Trinkbrunnen,Waagner-Biro-Straße 104,8020,47.08125996884231,15.410970997649395,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_226,Trinkbrunnen Lustbühelstraße 28,Trinkbrunnen,Trinkbrunnen,Lustbühelstraße 28,8010,47.06974312169426,15.49479953392502,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_227,Trinkbrunnen Dietrichsteinplatz 16,Trinkbrunnen,Trinkbrunnen,Dietrichsteinplatz 16,8010,47.06662525090424,15.446352249408589,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_228,Trinkbrunnen Freiheitsplatz 4,Trinkbrunnen,Trinkbrunnen,Freiheitsplatz 4,8010,47.07300986081255,15.441021029563151,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_231,Trinkbrunnen Schwimmschulkai,Trinkbrunnen,Trinkbrunnen,Schwimmschulkai,8010,47.09141328578285,15.421536093264123,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_232,Trinkbrunnen Theyergasse 11,Trinkbrunnen,Trinkbrunnen,Theyergasse 11,8010,47.04482657360507,15.443240265631669,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_233,Trinkbrunnen Marburger Kai 43,Trinkbrunnen,Trinkbrunnen,Marburger Kai 43,8010,47.06861160878156,15.435631607924284,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_234,Trinkbrunnen Starhemberggasse 32,Trinkbrunnen,Trinkbrunnen,Starhemberggasse 32,8020,47.075147992593664,15.408665178811761,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_235,Trinkbrunnen Grüne Gasse 17,Trinkbrunnen,Trinkbrunnen,Grüne Gasse 17,8020,47.079954080430426,15.426536355341403,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_236,Trinkbrunnen Hauptplatz 2,Trinkbrunnen,Trinkbrunnen,Hauptplatz 2,8010,47.07076870443205,15.438544141305597,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_237,Trinkbrunnen Schillerplatz 1,Trinkbrunnen,Trinkbrunnen,Schillerplatz 1,8010,47.068802647072026,15.459110896341913,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_238,Trinkbrunnen Kärntner Straße 394,Trinkbrunnen,Trinkbrunnen,Kärntner Straße 394,8020,47.02461810368045,15.400473376730025,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_239,Trinkbrunnen Thalstraße 145,Trinkbrunnen,Trinkbrunnen,Thalstraße 145,8051,47.0970612556757,15.375990887147887,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_240,Trinkbrunnen Eggenberger Allee 86,Trinkbrunnen,Trinkbrunnen,Eggenberger Allee 86,8020,47.07249606201492,15.395405869239962,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_241,Trinkbrunnen Volksgartenstraße 11,Trinkbrunnen,Trinkbrunnen,Volksgartenstraße 11,8020,47.073607510706005,15.427059999885207,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_242,Trinkbrunnen Am Steinfeld 3,Trinkbrunnen,Trinkbrunnen,Am Steinfeld 3,8020,47.06369767356321,15.415568055644595,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_243,Trinkbrunnen Franz-Steiner-Gasse 20,Trinkbrunnen,Trinkbrunnen,Franz-Steiner-Gasse 20,8020,47.0723932690908,15.402857606324757,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_244,Trinkbrunnen Südtiroler Platz 4,Trinkbrunnen,Trinkbrunnen,Südtiroler Platz 4,8020,47.07096999182719,15.433662221276503,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_246,Trinkbrunnen Leechgasse 22,Trinkbrunnen,Trinkbrunnen,Leechgasse 22,8010,47.076390817991935,15.453307572402228,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_247,Trinkbrunnen Fischeraustraße 1a,Trinkbrunnen,Trinkbrunnen,Fischeraustraße 1a,8051,47.09332182700055,15.41152319645354,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_248,Trinkbrunnen Hauseggerstraße 70,Trinkbrunnen,Trinkbrunnen,Hauseggerstraße 70,8020,47.067947979746066,15.397380303279366,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_249,Trinkbrunnen Kalkleitenstraße,Trinkbrunnen,Trinkbrunnen,Kalkleitenstraße,8010,47.151553731231516,15.435366626150591,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+fountain_250,Trinkbrunnen Engelsdorfer Straße 30,Trinkbrunnen,Trinkbrunnen,Engelsdorfer Straße 30,8010,47.03291738000742,15.460257274761071,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
+park_4054787,Augarten,Park/Gruenraum,park,,8010,47.0619032,15.4361655,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_4099920,Felix-Dahn-Platz,Park/Gruenraum,park,,8010,47.0665538,15.4532803,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_4273007,Tegetthoffplatz,Park/Gruenraum,park,,8010,47.0765848,15.4588876,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_4545930,Schillerplatz,Park/Gruenraum,park,,8010,47.0687339,15.4593506,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_4882491,Margaretenbad,Park/Gruenraum,water_park,,8010,47.0808432,15.4436773,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_8068031,Schloss Eggenberg,Park/Gruenraum,park,,8020,47.0737432,15.3936573,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_23611026,Oeverseepark,Park/Gruenraum,park,,8020,47.0639509,15.4275568,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_23621642,Gemeindepark Eggenberg,Park/Gruenraum,park,,8020,47.0686008,15.4021943,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_24328752,Harmsdorfpark,Park/Gruenraum,park,,8010,47.0512253,15.4574344,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_24418894,Helene-Serfecz-Platz,Park/Gruenraum,park,,8020,47.0645256,15.4052251,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_24832827,Schererpark,Park/Gruenraum,park,,8020,47.0575221,15.3963411,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_24878180,Straßganger Bad,Park/Gruenraum,water_park,,8020,47.0252982,15.3957232,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_25491088,Hofbauerplatz,Park/Gruenraum,park,,8020,47.0726849,15.4027237,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_25651350,Fröbelpark,Park/Gruenraum,park,,8020,47.083467,15.4187219,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_25652130,Volksgarten,Park/Gruenraum,park,,8020,47.0732776,15.4272582,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_25669871,Annaplatz,Park/Gruenraum,park,,8020,47.0800496,15.3960266,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_25720102,Gorbachplatz,Park/Gruenraum,park,,8010,47.0665606,15.435912,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_25720107,Josef-Pongratz-Platz,Park/Gruenraum,park,,8010,47.0659136,15.4358245,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_25867348,Burggarten,Park/Gruenraum,park,,8010,47.0729493,15.4438132,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_27074650,August-Matthey-Park,Park/Gruenraum,park,,8010,47.0709101,15.4565639,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_27074654,Lessing-Park,Park/Gruenraum,park,,8010,47.0708125,15.4509289,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_29713811,Metahofpark,Park/Gruenraum,park,,8020,47.0723919,15.4218255,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_29715858,Dr.-Schlossar-Park,Park/Gruenraum,park,,8020,47.0518277,15.4313609,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_29715867,Sankt Johannes - Park,Park/Gruenraum,park,,8020,47.0488764,15.4258768,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_32733875,Dechant-Binder-Anlage,Park/Gruenraum,park,,8051,47.093125,15.3995741,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_59102658,Friedenspark,Park/Gruenraum,park,,8020,47.0825918,15.4180109,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_69995106,Augartenbad,Park/Gruenraum,water_park,,8010,47.0588576,15.4358652,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_71961003,Grün- und Sportanlage Dominikanergrund,Park/Gruenraum,park,,8010,47.0619118,15.4531723,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_74662571,Rösselmühlpark,Park/Gruenraum,park,,8020,47.0664377,15.428129,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_88143684,Baumhain Reininghaus,Park/Gruenraum,park,,8020,47.0579936,15.4075729,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_94337860,Bezirkssportplatz St. Vinzenz,Park/Gruenraum,park,,8020,47.0763429,15.4043596,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_96700820,Maß-Mensch-Park,Park/Gruenraum,park,,8010,47.0630296,15.4701626,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_108004875,Kalvarienberg,Park/Gruenraum,park,,8020,47.0930915,15.4177542,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_109127016,Schmetterlingsgarten,Park/Gruenraum,park,,8020,47.0653091,15.4295031,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_109127018,Garten der Sinne,Park/Gruenraum,park,,8020,47.0647565,15.4293126,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_109696193,Therapiepark,Park/Gruenraum,park,,8020,47.0643689,15.4291948,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_113969111,Barbara-Frischmuth-Park,Park/Gruenraum,park,,8010,47.0743103,15.4517453,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_138784742,Nikolaiplatz,Park/Gruenraum,park,,8020,47.0680389,15.4342363,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_161998099,Rielteich,Park/Gruenraum,nature_reserve,,8045,47.117354,15.4198098,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_162588273,Bubble Park,Park/Gruenraum,park,,8020,47.0592475,15.4320368,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_168243671,Volkskundemuseum Garten,Park/Gruenraum,recreation_ground,,8010,47.0749468,15.4399733,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_169075318,Andritzer Obst- und Naschgarten,Park/Gruenraum,park,,8045,47.1045028,15.4199061,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_176704761,FKK Bad Straßgang,Park/Gruenraum,recreation_ground,,8020,47.025941,15.3951179,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_184758456,Dagmar-Grage-Park,Park/Gruenraum,park,,8045,47.0988263,15.4201456,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_188079083,Steyrergasse-Park,Park/Gruenraum,park,,8010,47.0635681,15.451084,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_203914103,Meranpark,Park/Gruenraum,park,,8010,47.0729172,15.4495134,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_241085353,Dornschneiderwiese,Park/Gruenraum,recreation_ground,,8020,47.0487423,15.4297965,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_244607182,Löseranlage,Park/Gruenraum,park,,8051,47.1005373,15.3945671,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_315921324,Liebenauer Park,Park/Gruenraum,park,,8010,47.0303281,15.4632846,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_332634767,neuer Attemsgarten,Park/Gruenraum,park,,8010,47.0800586,15.448292,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_352749431,Nikolaus-Harnoncourt-Park Ost,Park/Gruenraum,park,,8020,47.0812426,15.4109735,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_505627652,Dorfplatz,Park/Gruenraum,village_green,,8020,47.0426041,15.4168046,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_505627653,Dorfplatz,Park/Gruenraum,village_green,,8020,47.0429491,15.4167672,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_552451775,Kepler Garten,Park/Gruenraum,park,,8020,47.0763216,15.4315281,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_561060923,Floßlendplatz,Park/Gruenraum,park,,8020,47.0835577,15.4248299,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_572846068,Kreuzschwestern-Park,Park/Gruenraum,park,,8010,47.0823618,15.4400819,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_573479429,Leechpark,Park/Gruenraum,park,,8010,47.0757081,15.446599,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_573494592,Geidorf Senior:innenzentrum Park,Park/Gruenraum,park,,8010,47.0847011,15.4308199,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_678023946,Am Naturdenkmal Platane,Park/Gruenraum,park,,8010,47.0787866,15.4603601,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_689441390,Eustacchiopark,Park/Gruenraum,park,,8010,47.0608076,15.477199,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_703187651,Ehemaliger Verkehrserziehungs-Park,Park/Gruenraum,recreation_ground,,8010,47.0740814,15.4428264,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_703188990,Stadtpark,Park/Gruenraum,park,,8010,47.073775,15.4438725,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_703836082,Park Augustinum,Park/Gruenraum,park,,8010,47.0823216,15.4365835,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_710495165,Ökopark Fekonja,Park/Gruenraum,park,,8010,47.0559036,15.4439634,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_713948038,Platz der Versöhnung,Park/Gruenraum,recreation_ground,,8010,47.0757265,15.4425386,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_718489703,Schlosspark,Park/Gruenraum,park,,8045,47.112396,15.4057904,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_733709124,Anna-Cadia-Park,Park/Gruenraum,park,,8020,47.0767536,15.407966,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_746350657,Reininghauspark,Park/Gruenraum,park,,8020,47.0621364,15.4095016,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_751980067,Maria-Cäsar-Park,Park/Gruenraum,park,,8010,47.0457906,15.4439747,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_813042328,Hedwig-Ehmann-Park,Park/Gruenraum,park,,8010,47.0382149,15.4563676,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_902361884,Auenpark,Park/Gruenraum,park,,8045,47.1100874,15.4268634,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_933223166,Wagner-Jauregg-Platz,Park/Gruenraum,park,,8020,47.0397888,15.4161341,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_966308271,Olympiawiese,Park/Gruenraum,park,,8010,47.0389095,15.4454526,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_987677214,Schörgelpark,Park/Gruenraum,park,,8010,47.0657216,15.4597919,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1033200517,FKK,Park/Gruenraum,recreation_ground,,8010,47.0768102,15.4857781,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1065893591,Sieben-Hügel-Park,Park/Gruenraum,park,,8020,47.047544,15.398762,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1086712431,Peter-Rosegger-Park,Park/Gruenraum,park,,8020,47.0548104,15.4038073,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1117115945,Martha-Stadler-Park,Park/Gruenraum,park,,8020,47.0245214,15.4039973,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1119392408,Dr.-Hans-Spitzy-Platzl,Park/Gruenraum,park,,8020,47.0517675,15.4301289,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1156961557,Gertie-Pakesch-Kaan-Park,Park/Gruenraum,park,,8020,47.0749853,15.4089017,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1187612534,Technikerpark,Park/Gruenraum,park,,8010,47.0686057,15.4500327,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1188331419,Naturschutzgebiet Am Josefbach - Bullmanngrund,Park/Gruenraum,nature_reserve,,8010,47.105101,15.4647639,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1193135582,Ausgleichsfläche Puchleitnerweg,Park/Gruenraum,recreation_ground,,8045,47.1171358,15.433807,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1204487802,Wasserturmpark,Park/Gruenraum,park,,8020,47.0732632,15.4137495,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1206740870,Anton-Lippe-Platz,Park/Gruenraum,park,,8010,47.0470292,15.451073,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1210247259,neuer Attemsgarten,Park/Gruenraum,park,,8010,47.0800998,15.4473715,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1305971350,Ivanka-Gruber-Park,Park/Gruenraum,park,,8010,47.0517062,15.4431194,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1411909420,Annemarie-Zdarsky-Park,Park/Gruenraum,park,,8020,47.0261879,15.4274762,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1420169947,Hasenheide,Park/Gruenraum,park,,8010,47.0540209,15.4539287,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1442600511,Lore-Krainer-Park,Park/Gruenraum,park,,8020,47.0828769,15.4151187,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+park_1501767307,Wormspitz,Park/Gruenraum,park,,8010,47.0792824,15.4422105,no,OpenStreetMap (via Overpass API),ODbL 1.0,24/7 (public access)
+library_15,Stadtbibliothek Gösting,Bibliothek,Bibliothek,Wiener Straße 255,8051,47.09395649668783,15.405398514268597,no,Stadt Graz OGD - Bibliotheken,CC BY 4.0,Mon-Fri 09:00-19:00; Sat 09:00-13:00
+library_16,Mediathek,Bibliothek,Bibliothek,Vorbeckgasse 12,8020,47.06987517255398,15.431032211364379,no,Stadt Graz OGD - Bibliotheken,CC BY 4.0,Mon-Fri 09:00-19:00; Sat 09:00-13:00
+library_17,Stadtbibliothek Ost-Schillerstraße,Bibliothek,Bibliothek,Schillerstraße 53,8010,47.069416551366686,15.458682199297526,no,Stadt Graz OGD - Bibliotheken,CC BY 4.0,Mon-Fri 09:00-19:00; Sat 09:00-13:00
+library_18,"Stadtbibliothek Zanklhof, Hauptbibliothek",Bibliothek,Bibliothek,Maria-Stromberger-Gasse 2,8020,47.06983239490147,15.431464828878543,yes,Stadt Graz OGD - Bibliotheken,CC BY 4.0,Mon-Fri 09:00-19:00; Sat 09:00-13:00
+library_19,Stadtbibliothek West-Eggenberg,Bibliothek,Bibliothek,Eggenberger Allee 13a,8020,47.069794962341064,15.407131218796927,yes,Stadt Graz OGD - Bibliotheken,CC BY 4.0,Mon-Fri 09:00-19:00; Sat 09:00-13:00
+library_20,Stadtbibliothek Nord-Geidorf,Bibliothek,Bibliothek,Theodor-Körner-Straße 59,8010,47.08356330359162,15.431971699313998,yes,Stadt Graz OGD - Bibliotheken,CC BY 4.0,Mon-Fri 09:00-19:00; Sat 09:00-13:00
+library_21,Stadtbibliothek Andritz,Bibliothek,Bibliothek,Grazer Straße 54,8045,47.10260203672344,15.421288149612476,no,Stadt Graz OGD - Bibliotheken,CC BY 4.0,Mon-Fri 09:00-19:00; Sat 09:00-13:00
+library_22,Stadtbibliothek Süd-Lauzilgasse,Bibliothek,Bibliothek,Lauzilgasse 21,8020,47.04574246850118,15.432552622154512,no,Stadt Graz OGD - Bibliotheken,CC BY 4.0,Mon-Fri 09:00-19:00; Sat 09:00-13:00
+church_1646,Münzgraben-Kirche,Kirche,Kirche,Münzgrabenstraße 61/Kirche,8010,47.06159928895854,15.452109901889315,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0,Daily 08:00-18:00 (subject to services)
+church_1651,Röm.-kath. Pfarre Mariahilf,Kirche,Kirche,Mariahilferplatz 3,8020,47.07273532774005,15.433229134619033,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0,Daily 08:00-18:00 (subject to services)
+church_1663,Röm.-kath. Pfarre St.Andrä,Kirche,Kirche,Maria-Stromberger-Gasse 9,8020,47.069756488875335,15.429718823776224,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0,Daily 08:00-18:00 (subject to services)
+church_1664,Röm.-kath. Pfarre St.Josef,Kirche,Kirche,Schönaugürtel 41,8010,47.05881082485882,15.44102440015797,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0,Daily 08:00-18:00 (subject to services)
+church_1682,Röm.-kath. Stadtpfarre zum Hl.Blut,Kirche,Kirche,Herrengasse 23,8010,47.06916151622569,15.441266295580052,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0,Daily 08:00-18:00 (subject to services)
+church_1704,Röm.-kath. Dompfarre St. Ägidius,Kirche,Kirche,Bürgergasse 1,8010,47.0714384149794,15.442199164093164,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0,Daily 08:00-18:00 (subject to services)
+church_1706,Röm.-kath. Franziskanerkirche,Kirche,Kirche,Franziskanerplatz 14,8010,47.07044576551623,15.436988771242811,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0,Daily 08:00-18:00 (subject to services)
+church_1732,Barmherzigenkirche,Kirche,Kirche,Annenstraße 2,8020,47.07128792578717,15.432040900662487,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0,Daily 08:00-18:00 (subject to services)
+church_1737,"Röm.-kath. Pfarre Schmerzhafte Mutter, Lazaristenkriche",Kirche,Kirche,Mariengasse 31,8020,47.07637250853323,15.421142730975562,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0,Daily 08:00-18:00 (subject to services)
+church_1762,Herz-Jesu-Kirche,Kirche,Kirche,Sparbersbachgasse 58,8010,47.06962675526667,15.455735049489604,yes,Stadt Graz OGD - Kirchen und anerkannte Religionsgemeinschaften,CC BY 4.0,Daily 08:00-18:00 (subject to services)
+wasserspiel_1,Wasserspielplatz Theodor-Körner-Straße,Wasserspielplatz,Wasserspielplatz,Theodor-Körner-Straße 59,8010,47.0942093,15.4237645,no,Stadt Graz OGD / Mamilade,CC BY 4.0,May-Sep daily 09:00-19:00 (seasonal)
+wasserspiel_2,Wasserspielplatz Tändelwiese,Wasserspielplatz,Wasserspielplatz,Auf der Tändelwiese 8,8020,47.052327,15.431239,no,Stadt Graz / Freizeitinfo.at,CC BY 4.0,May-Sep daily 09:00-19:00 (seasonal)
+wasserspiel_3,Wasserspielplatz Langedelwehr,Wasserspielplatz,Wasserspielplatz,Am Langedelwehr,8010,47.0556638,15.4371868,no,Stadt Graz / Freizeitinfo.at,CC BY 4.0,May-Sep daily 09:00-19:00 (seasonal)
+spruehnebel_1,Spruehnebel-Lanze Bad zur Sonne,Spruehnebel-Lanze,Spruehnebel-Lanze,Feuerbachgasse 11,8020,47.069571,15.432376,no,Stadt Graz / Holding Graz,CC BY 4.0,On-demand during heat alerts (summer season)
+spruehnebel_2,Spruehnebel-Lanze Schmiedgasse,Spruehnebel-Lanze,Spruehnebel-Lanze,Schmiedgasse 26,8010,47.0714,15.4387,no,Stadt Graz / Holding Graz,CC BY 4.0,On-demand during heat alerts (summer season)
+pool_1501767308,Augartenbad,Schwimmbad,Öffentliches Freibad/Hallenbad,"Schönaugürtel 1, 8010 Graz",8010,47.07234,15.40876,no,Grazer Freizeitbetriebe / Stadt Graz OGD,CC BY 4.0,Summer: typically 09:00-19:00; Winter hours vary (see holding-graz.at)
+pool_1501767309,Stukitzbad,Schwimmbad,Öffentliches Freibad/Hallenbad,"Andritzer Reichsstraße 25a, 8045 Graz",8045,47.07844,15.47598,no,Grazer Freizeitbetriebe / Stadt Graz OGD,CC BY 4.0,Summer: typically 09:00-19:00; Winter hours vary (see holding-graz.at)
+pool_1501767310,Bad Eggenberg (Auster),Schwimmbad,Öffentliches Freibad/Hallenbad,"Janzgasse 21, 8020 Graz",8020,47.07821,15.41923,no,Grazer Freizeitbetriebe / Stadt Graz OGD,CC BY 4.0,Summer: typically 09:00-19:00; Winter hours vary (see holding-graz.at)
+pool_1501767311,Bad Straßgang,Schwimmbad,Öffentliches Freibad/Hallenbad,"Martinhofstraße 3, 8054 Graz",8054,47.05621,15.47834,no,Grazer Freizeitbetriebe / Stadt Graz OGD,CC BY 4.0,Summer: typically 09:00-19:00; Winter hours vary (see holding-graz.at)
+pool_1501767312,Ragnitzbad,Schwimmbad,Öffentliches Freibad/Hallenbad,"Pesendorferweg 7, 8047 Graz",8047,47.06234,15.47123,no,Grazer Freizeitbetriebe / Stadt Graz OGD,CC BY 4.0,Summer: typically 09:00-19:00; Winter hours vary (see holding-graz.at)
+pool_1501767313,Bad zur Sonne,Schwimmbad,Öffentliches Freibad/Hallenbad,"Feuerbachgasse 11-13, 8020 Graz",8020,47.06912,15.43276,no,Grazer Freizeitbetriebe / Stadt Graz OGD,CC BY 4.0,Summer: typically 09:00-19:00; Winter hours vary (see holding-graz.at)

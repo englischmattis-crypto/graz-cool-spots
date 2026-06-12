@@ -22,6 +22,7 @@ STYLE = {
     "Kirche":         {"color": "#6a3d9a", "icon": "place-of-worship", "label": "Churches (Kirchen)"},
     "Park/Gruenraum": {"color": "#33a02c", "icon": "tree",  "label": "Parks & green spaces"},
     "Wasserspielplatz": {"color": "#0ea5e9", "icon": "water",  "label": "Water playgrounds (Wasserspielplaetze)"},
+    "Schwimmbad":     {"color": "#2E86AB", "icon": "swimmer",  "label": "Public swimming pools (Schwimmbäder)"},
     "Spruehnebel-Lanze": {"color": "#06b6d4", "icon": "shower",  "label": "Spray mist cooling (Spruehnebel-Lanzen)"},
 }
 COOL_COLOR = "#e31a1c"
@@ -46,7 +47,6 @@ for row in rows:
     is_cool = row["coole_raeume"] == "yes"
 
     popup_lines = [f"<b>{row['name']}</b>"]
-    # Only show subcategory for parks (where it provides useful detail like water_park, nature_reserve)
     if cat == "Park/Gruenraum":
         popup_lines.append(f"Type: {row['subcategory']}")
     if row["address"]:
@@ -72,7 +72,7 @@ for g in groups.values():
 
 folium.LayerControl(collapsed=False).add_to(m)
 
-title_html = '<div style="position: fixed; top: 10px; left: 50px; z-index: 9999; background: white; padding: 8px 14px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.3); font-family: sans-serif; max-width: 360px;"><b>Cool Spots Graz</b><br><span style="font-size: 12px;">Red markers = official Coole Raeume cooling spots. Use layers (top right) to filter by type: fountains, libraries, churches, parks, water playgrounds, or spray cooling.</span><br><a href="about.html" style="font-size: 12px; color: #1C7293; font-weight: bold;">About this dataset &rarr;</a></div>'
+title_html = '<div style="position: fixed; top: 10px; left: 50px; z-index: 9999; background: white; padding: 8px 14px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.3); font-family: sans-serif; max-width: 360px;"><b>Cool Spots Graz</b><br><span style="font-size: 12px;">Red markers = official Coole Raeume cooling spots. Use layers (top right) to filter by type: fountains, libraries, churches, parks, swimming pools, water playgrounds, or spray cooling.</span><br><a href="about.html" style="font-size: 12px; color: #1C7293; font-weight: bold;">About this dataset &rarr;</a></div>'
 
 m.get_root().html.add_child(folium.Element(title_html))
 
