@@ -1,4 +1,5 @@
 id,name,category,subcategory,address,plz,lat,lon,coole_raeume,source,license,opening_hours
+park_1501767308,Augarten,Park/Gruenraum,park,,8010,47.0619032,15.4361655,no,OpenStreetMap (via Overpass API),ODbL 1.0,May-Sep: 09:00-19:00 (weather dependent)
 fountain_1,Trinkbrunnen Peter-Rosegger-Straße 27,Trinkbrunnen,Trinkbrunnen,Peter-Rosegger-Straße 27,8020,47.05368644815697,15.408617230898946,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
 fountain_2,Trinkbrunnen St.-Peter-Pfarrweg 21,Trinkbrunnen,Trinkbrunnen,St.-Peter-Pfarrweg 21,8010,47.063166922013814,15.472302259640765,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
 fountain_4,Trinkbrunnen Körösistraße 29c,Trinkbrunnen,Trinkbrunnen,Körösistraße 29c,8010,47.080980330130444,15.431222375099843,no,Stadt Graz OGD - Oeffentliche Brunnen,CC BY 4.0,24/7 (when operational)
