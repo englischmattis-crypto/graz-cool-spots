@@ -1,18 +1,18 @@
-# License — Cool Spots Graz Dataset
+# License: Cool Spots Graz Dataset
 
 ## Summary
 
 This dataset is released under the **Open Database License (ODbL) v1.0**.
 
 You are free to:
-- **Share** — copy, distribute, and use the database
-- **Create** — produce works from the database
-- **Adapt** — modify, transform, and build upon the database
+- **Share**: copy, distribute, and use the database
+- **Create**: produce works from the database
+- **Adapt**: modify, transform, and build upon the database
 
 As long as you:
-- **Attribute** — you must attribute any public use of the database, or works produced from it, in the manner specified in the attribution section below.
-- **Share-Alike** — if you publicly use any adapted version of this database, you must also offer that adapted database under the ODbL.
-- **Keep open** — if you redistribute the database, or an adapted version, you must do so only under the ODbL, and you must make it publicly available.
+- **Attribute**: you must attribute any public use of the database, or works produced from it, in the manner specified in the attribution section below.
+- **Share-Alike**: if you publicly use any adapted version of this database, you must also offer that adapted database under the ODbL.
+- **Keep open**: if you redistribute the database, or an adapted version, you must do so only under the ODbL, and you must make it publicly available.
 
 ## Why ODbL?
 
@@ -35,7 +35,7 @@ Because OpenStreetMap data is licensed under ODbL with a **share-alike** clause 
 
 When using or redistributing this dataset, you must include the following attribution:
 
-> **Cool Spots Graz** — Mattis Englisch, 2026.  
+> **Cool Spots Graz**: Mattis Englisch, Sebastian Kerstein, Levien Laack. 2026.  
 > https://github.com/englischmattis-crypto/graz-cool-spots  
 > Licensed under ODbL 1.0 (https://opendatacommons.org/licenses/odbl/1-0/).
 >
