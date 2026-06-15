@@ -12,7 +12,7 @@ For full documentation: schema, data sources, collection method, use cases, and 
 |---|---|
 | `graz_cool_spots.csv` | Tabular dataset (291 records, 12 columns) |
 | `graz_cool_spots.geojson` | Same data as GeoJSON (EPSG:4326 / WGS84) |
-| `index.html` / `graz_cool_spots_map.html` | Interactive Leaflet map: open in any browser |
+| `index.html` | Interactive Leaflet map: open in any browser |
 | `about.html` | Full dataset documentation |
 | `merge_graz.py` | Python script to rebuild the dataset from raw sources |
 | `build_map_graz.py` | Python script to rebuild the interactive map |
