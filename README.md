@@ -1,4 +1,4 @@
-# Cool Spots Graz — POI Dataset
+# Cool Spots Graz: POI Dataset
 
 A unified point-of-interest dataset of urban cooling spots in Graz, Austria: drinking fountains, parks, churches, libraries, swimming pools, water playgrounds, spray mist installations, and cultural buildings — including a `coole_raeume` flag for the City of Graz's official "Coole Räume" program.
 
