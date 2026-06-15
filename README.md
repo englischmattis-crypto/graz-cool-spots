@@ -1,10 +1,10 @@
 # Cool Spots Graz: POI Dataset
 
-A unified point-of-interest dataset of urban cooling spots in Graz, Austria: drinking fountains, parks, churches, libraries, swimming pools, water playgrounds, spray mist installations, and cultural buildings — including a `coole_raeume` flag for the City of Graz's official "Coole Räume" program.
+A unified point-of-interest dataset of urban cooling spots in Graz, Austria: drinking fountains, parks, churches, libraries, swimming pools, water playgrounds, spray mist installations, and cultural buildings, including a `coole_raeume` flag for the City of Graz's official "Coole Räume" program.
 
 **291 records · 8 categories · 12 attributes · 15 official "Coole Räume"**
 
-For full documentation — schema, data sources, collection method, use cases, and license details — see [`about.html`](about.html) or the [published dataset page](https://englischmattis-crypto.github.io/graz-cool-spots/about.html).
+For full documentation: schema, data sources, collection method, use cases, and license details. See [`about.html`](about.html) or the [published dataset page](https://englischmattis-crypto.github.io/graz-cool-spots/about.html).
 
 ## Files
 
@@ -12,7 +12,7 @@ For full documentation — schema, data sources, collection method, use cases, a
 |---|---|
 | `graz_cool_spots.csv` | Tabular dataset (291 records, 12 columns) |
 | `graz_cool_spots.geojson` | Same data as GeoJSON (EPSG:4326 / WGS84) |
-| `index.html` / `graz_cool_spots_map.html` | Interactive Leaflet map — open in any browser |
+| `index.html` / `graz_cool_spots_map.html` | Interactive Leaflet map: open in any browser |
 | `about.html` | Full dataset documentation |
 | `merge_graz.py` | Python script to rebuild the dataset from raw sources |
 | `build_map_graz.py` | Python script to rebuild the interactive map |
