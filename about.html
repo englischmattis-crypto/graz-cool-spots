@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>About: Cool Spots Graz</title>
+<title>About — Cool Spots Graz</title>
 <style>
   :root {
     --primary: #21295C;
@@ -144,13 +144,28 @@
     border-radius: 3px;
     font-size: 0.9em;
   }
+  /* Mobile improvements */
+  .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.2rem; }
+    header nav { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+    header nav a { margin-left: 0; font-size: 0.88rem; }
+    main { padding: 1.2rem 1rem 2.5rem; }
+    .stats { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); }
+    .stat .num { font-size: 1.5rem; }
+    h2 { font-size: 1.2rem; }
+    .lead { font-size: 1rem; }
+    table { font-size: 0.88rem; }
+    th, td { padding: 0.45rem 0.5rem; }
+    .cta { display: block; text-align: center; }
+  }
 </style>
 </head>
 <body>
 
 <header>
   <div class="inner">
-    <h1>Cool Spots Graz: About this dataset</h1>
+    <h1>Cool Spots Graz — About this dataset</h1>
     <nav>
       <a href="index.html">&larr; Back to the map</a>
       <a href="https://github.com/englischmattis-crypto/graz-cool-spots">View on GitHub</a>
@@ -162,7 +177,7 @@
   <p class="lead">
     A unified, ready-to-use point-of-interest dataset of places in Graz where people can
     cool down on hot summer days: drinking fountains, public libraries, churches (cool,
-    shaded interiors), and parks/green spaces. Including a flag for the City of Graz's
+    shaded interiors), and parks/green spaces — including a flag for the City of Graz's
     official <strong>&ldquo;Coole Räume&rdquo;</strong> (cool-rooms) program.
   </p>
 
@@ -180,16 +195,16 @@
   </p>
 
   <div class="quote">
-    &ldquo;It's 35°C in Graz. Where can I cool down, and which spots are part of the city's
+    &ldquo;It's 35°C in Graz — where can I cool down, and which spots are part of the city's
     official cooling program?&rdquo;
   </div>
 
   <h2>The dataset at a glance</h2>
   <div class="stats">
-    <div class="stat"><span class="num">303</span><span class="label">total records</span></div>
-    <div class="stat"><span class="num">11</span><span class="label">schema columns</span></div>
-    <div class="stat"><span class="num">7</span><span class="label">cooling spot types</span></div>
-    <div class="stat accent"><span class="num">18</span><span class="label">official &ldquo;Coole Räume&rdquo;</span></div>
+    <div class="stat"><span class="num">291</span><span class="label">total records</span></div>
+    <div class="stat"><span class="num">12</span><span class="label">schema columns</span></div>
+    <div class="stat"><span class="num">8</span><span class="label">cooling spot types</span></div>
+    <div class="stat accent"><span class="num">13</span><span class="label">official &ldquo;Coole Räume&rdquo;</span></div>
     <div class="stat tertiary"><span class="num">2</span><span class="label">license types (CC BY 4.0 / ODbL 1.0)</span></div>
   </div>
 
@@ -198,44 +213,51 @@
     <li>8 public libraries (all Stadtbibliothek Graz branches; 3 flagged as &ldquo;Coole Räume&rdquo;)</li>
     <li>10 churches and recognised religious communities (only those flagged as official &ldquo;Coole Räume&rdquo;)</li>
     <li>91 parks and green spaces (from OpenStreetMap, filtered to park, water_park, nature_reserve, recreation_ground, village_green; garden and sports_centre excluded)</li>
-    <li>6 public swimming pools (Schwimmbäder) operated by Grazer Freizeitbetriebe. Seasonal and year-round facilities</li>
+    <li>6 public swimming pools (Schwimmbäder) operated by Grazer Freizeitbetriebe — seasonal and year-round facilities</li>
     <li>3 water playgrounds (Wasserspielplätze) with fountains and splash zones</li>
-    <li>2 spray mist cooling installations (Sprühnebel-Lanzen). Test locations operated by City of Graz</li>
+    <li>2 spray mist cooling installations (Sprühnebel-Lanzen) — test locations operated by City of Graz</li>
+    <li>2 cultural buildings (Kulturgebäude): Kunsthaus Graz (foyer) and Graz Museum (Stadtoase courtyard) — both official "Coole Räume" from the Hitzeaktionsplan</li>
   </ul>
 
   <h2>Files in this repository</h2>
+  <div class="table-wrap">
   <table>
     <tr><th>File</th><th>Description</th></tr>
-    <tr><td><code>graz_cool_spots.csv</code></td><td>Tabular version of the dataset (303 records, 11 columns)</td></tr>
+    <tr><td><code>graz_cool_spots.csv</code></td><td>Tabular version of the dataset (291 records, 12 columns)</td></tr>
     <tr><td><code>graz_cool_spots.geojson</code></td><td>Same data as a GeoJSON FeatureCollection (point geometries, EPSG:4326 / WGS84)</td></tr>
     <tr><td><code>index.html</code> / <code>graz_cool_spots_map.html</code></td><td>Interactive demo map (Leaflet/folium)</td></tr>
     <tr><td><code>merge_graz.py</code></td><td>Python script that builds the dataset from the raw source files</td></tr>
     <tr><td><code>build_map_graz.py</code></td><td>Python script that builds the interactive map from the dataset</td></tr>
     <tr><td><code>raw_source_data_graz/</code></td><td>Raw downloads from each source, for traceability</td></tr>
   </table>
+  </div>
 
   <h2>Schema</h2>
+  <div class="table-wrap">
   <table>
     <tr><th>Column</th><th>Description</th></tr>
-    <tr><td><code>id</code></td><td>Unique record ID, prefixed by source type (<code>fountain_*</code>, <code>library_*</code>, <code>church_*</code>, <code>park_*</code>) plus the original source object ID</td></tr>
+    <tr><td><code>id</code></td><td>Unique record ID, prefixed by source type (<code>fountain_*</code>, <code>library_*</code>, <code>church_*</code>, <code>park_*</code>, <code>pool_*</code>, <code>waterplay_*</code>, <code>spray_*</code>) plus the original source object ID</td></tr>
     <tr><td><code>name</code></td><td>Name of the location</td></tr>
-    <tr><td><code>category</code></td><td>One of <code>Trinkbrunnen</code>, <code>Bibliothek</code>, <code>Kirche</code>, <code>Park/Gruenraum</code>, <code>Wasserspielplatz</code>, <code>Spruehnebel-Lanze</code></td></tr>
+    <tr><td><code>category</code></td><td>One of <code>Trinkbrunnen</code>, <code>Bibliothek</code>, <code>Kirche</code>, <code>Park/Gruenraum</code>, <code>Schwimmbad</code>, <code>Wasserspielplatz</code>, <code>Spruehnebel-Lanze</code>, <code>Kulturgebäude</code></td></tr>
     <tr><td><code>subcategory</code></td><td>Finer-grained type: for parks one of <code>park</code>, <code>water_park</code>, <code>nature_reserve</code>, <code>recreation_ground</code>, <code>village_green</code> (from OSM tags)</td></tr>
     <tr><td><code>address</code></td><td>Street and house number, where available</td></tr>
     <tr><td><code>plz</code></td><td>Postal code, where available</td></tr>
     <tr><td><code>lat</code>, <code>lon</code></td><td>WGS84 coordinates (EPSG:4326)</td></tr>
-    <tr><td><code>coole_raeume</code></td><td><code>yes</code> / <code>no</code>, whether this location is part of the City of Graz's official cooling program</td></tr>
+    <tr><td><code>coole_raeume</code></td><td><code>yes</code> / <code>no</code> — whether this location is part of the City of Graz's official cooling program</td></tr>
     <tr><td><code>source</code></td><td>Name of the original open-data dataset</td></tr>
     <tr><td><code>license</code></td><td>License of the original source (<code>CC BY 4.0</code> or <code>ODbL 1.0</code>)</td></tr>
+    <tr><td><code>opening_hours</code></td><td>Opening hours where available (OSM format where applicable); empty for fountains and parks which are always accessible</td></tr>
   </table>
+  </div>
 
   <h2>Where the data comes from</h2>
+  <div class="table-wrap">
   <table>
     <tr><th>Source</th><th>Provider</th><th>License</th><th>Records</th></tr>
     <tr>
       <td>Öffentliche Brunnen (public fountains)</td>
       <td><a href="https://geodaten.graz.at/arcgis/rest/services/OGD/OGD_WFS/MapServer/19">Stadt Graz OGD, layer 19</a></td>
-      <td>CC BY 4.0</td><td>183</td>
+      <td>CC BY 4.0</td><td>172</td>
     </tr>
     <tr>
       <td>Bibliotheken (libraries)</td>
@@ -250,7 +272,12 @@
     <tr>
       <td>Parks and green spaces</td>
       <td><a href="https://www.openstreetmap.org/copyright">OpenStreetMap (Overpass API)</a></td>
-      <td>ODbL 1.0</td><td>91</td>
+      <td>ODbL 1.0</td><td>88</td>
+    </tr>
+    <tr>
+      <td>Schwimmbäder (public swimming pools)</td>
+      <td><a href="https://www.freizeitbetriebe.graz.at">Grazer Freizeitbetriebe GmbH / Stadt Graz OGD</a></td>
+      <td>CC BY 4.0</td><td>6 (all Freizeitbetriebe-operated public pools)</td>
     </tr>
     <tr>
       <td>Wasserspielplätze (water playgrounds)</td>
@@ -262,9 +289,15 @@
       <td>Stadt Graz / Holding Graz</td>
       <td>CC BY 4.0</td><td>2 (test installations as of June 2026)</td>
     </tr>
-  </table>
+    <tr>
+      <td>Kulturgebäude (cultural cooling buildings)</td>
+      <td><a href="https://www.sicherheit.graz.at/cms/beitrag/10395815/12275502/Der_Hitzeaktionsplan_der_Stadt_Graz.html">Hitzeaktionsplan der Stadt Graz, Version 1.0 (June 2025)</a></td>
+      <td>CC BY 4.0</td><td>2 (Kunsthaus Graz foyer, Graz Museum Stadtoase)</td>
+    </tr>
+  </table> by cross-referencing the official list from the City of Graz's <a href="https://www.sicherheit.graz.at/cms/beitrag/10395815/12275502/Der_Hitzeaktionsplan_der_Stadt_Graz.html">Hitzeaktionsplan der Stadt Graz</a> (Version 1.0, June 2025, Chapter 5 &mdash; Orte der Abkühlung). Data sources were last checked and verified between early June and <strong>2026-06-12</strong>, reflecting their state as of mid-June 2026. Individual sources update on varying schedules, so the dataset represents a snapshot of availability and current operational status.
+  </p>
   <p>
-    The &ldquo;Coole Räume&rdquo; flag was derived by cross-referencing the official list published by the City of Graz: <a href="https://www.graz.net/orte-der-abkuehlung-33368/">graz.net/orte-der-abkuehlung-33368</a> (article dated 5 June 2025). Data sources were last checked and verified between early June and <strong>2026-06-12</strong>, reflecting their state as of mid-June 2026. Individual sources update on varying schedules, so the dataset represents a snapshot of availability and current operational status.
+    <strong>Note on cultural buildings:</strong> The Hitzeaktionsplan also lists the Kunsthaus Graz (Lendkai 1, foyer) and Graz Museum (Sackstraße 18, Stadtoase courtyard) as official "Coole Räume." Both are included in the dataset under the <code>Kulturgebäude</code> category and appear as red markers on the map. Access is free of charge and only during regular opening hours (Tue–Sun approx. 10:00–17:00; check the venue website for current hours).
   </p>
 
   <h2>Collection &amp; processing method</h2>
@@ -278,11 +311,14 @@
 
   <h2>License &amp; attribution</h2>
   <p>
-    This dataset combines sources under <strong>CC BY 4.0</strong> (Stadt Graz OGD: fountains, libraries, churches) and <strong>ODbL 1.0</strong> (OpenStreetMap: parks/green spaces). In line with ODbL's share-alike requirement for derivative databases, the combined dataset is released under the <strong>Open Database License (ODbL) v1.0</strong>,  see <a href="LICENSE.md">LICENSE.md</a> for the full text and summary.
+    This dataset combines sources under <strong>CC BY 4.0</strong> (Stadt Graz OGD: fountains, libraries, churches, swimming pools, water playgrounds, spray mist installations) and <strong>ODbL 1.0</strong> (OpenStreetMap: parks/green spaces). In line with ODbL's share-alike requirement for derivative databases, the combined dataset is released under the <strong>Open Database License (ODbL) v1.0</strong> &mdash; see <a href="LICENSE.md">LICENSE.md</a> for the full text and attribution requirements.
   </p>
   <ul>
-    <li>Fountains, libraries, churches: © Stadt Graz. data.graz.gv.at, licensed under CC BY 4.0.</li>
-    <li>Parks/green spaces: © OpenStreetMap contributors, licensed under ODbL 1.0.</li>
+    <li>Fountains, libraries, churches: &copy; Stadt Graz &ndash; data.graz.gv.at, licensed under CC BY 4.0.</li>
+    <li>Swimming pools: &copy; Grazer Freizeitbetriebe GmbH / Stadt Graz OGD, licensed under CC BY 4.0.</li>
+    <li>Water playgrounds, spray mist: &copy; Stadt Graz / Holding Graz, licensed under CC BY 4.0.</li>
+    <li>Cultural buildings (Kunsthaus, Graz Museum): data derived from the Hitzeaktionsplan der Stadt Graz &copy; Stadt Graz, licensed under CC BY 4.0.</li>
+    <li>Parks/green spaces: &copy; OpenStreetMap contributors, licensed under ODbL 1.0.</li>
   </ul>
 
   <h2>Map layers &amp; color coding</h2>
@@ -310,12 +346,12 @@
     <strong>Drinking fountains:</strong> The dataset includes all 183 fountains from Stadt Graz OGD as of June 2026. However, some fountains may be out of order (außer Betrieb) at any given time. For current operational status, check the <a href="https://www.holding-graz.at/de/wasser/trinkbrunnen/">Holding Graz fountain directory</a>.
   </p>
   <p>
-    <strong>Public water access / bathing:</strong> Graz has no officially designated free public swimming spots or beaches within city limits. While the Mur river flows through Graz, it is not typically used for public bathing. This makes the other cooling infrastructur: fountains, parks, libraries, churches, and water playgrounds, even more valuable during heatwaves.
+    <strong>Public water access / bathing:</strong> Graz has no officially designated free public swimming spots or beaches within city limits. While the Mur river flows through Graz, it is not typically used for public bathing. This makes the other cooling infrastructure—fountains, parks, libraries, churches, and water playgrounds—even more valuable during heatwaves.
   </p>
 
   <h2>Update strategy</h2>
   <p>
-    The Stadt Graz OGD layers and OpenStreetMap are both updated on an ongoing basis. To refresh this dataset, re-run <code>merge_graz.py</code> after re-downloading the raw source files from the endpoints listed above, and re-check the &ldquo;Coole Räume&rdquo; list at <a href="https://www.graz.net/orte-der-abkuehlung-33368/">graz.net/orte-der-abkuehlung-33368</a> for changes.
+    The Stadt Graz OGD layers and OpenStreetMap are both updated on an ongoing basis. To refresh this dataset, re-run <code>merge_graz.py</code> after re-downloading the raw source files from the endpoints listed above, and re-check the &ldquo;Coole Räume&rdquo; list in the <a href="https://www.sicherheit.graz.at/cms/beitrag/10395815/12275502/Der_Hitzeaktionsplan_der_Stadt_Graz.html">Hitzeaktionsplan der Stadt Graz</a> (updated annually before summer) for changes.
   </p>
 
   <p>
@@ -324,7 +360,7 @@
 </main>
 
 <footer>
-  Cool Spots Graz. POI Dataset · Mattis Englisch · Sebastian Kerstein · Levien Laack · <a href="https://github.com/englischmattis-crypto/graz-cool-spots">github.com/englischmattis-crypto/graz-cool-spots</a>
+  Cool Spots Graz — POI Dataset · Mattis Englisch · <a href="https://github.com/englischmattis-crypto/graz-cool-spots">github.com/englischmattis-crypto/graz-cool-spots</a>
 </footer>
 
 </body>
