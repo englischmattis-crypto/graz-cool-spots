@@ -187,8 +187,8 @@
     &bdquo;Orte der Abkühlung&ldquo; / &bdquo;Coole Räume&ldquo; campaign that points residents to
     10 inner-city churches and 3 climate-controlled library branches as official cooling spots.
     However, this campaign list is not published as structured open data, and it ignores other
-    relevant, freely available cooling infrastructure such as the city's ~180 public drinking
-    fountains and ~90 parks and green spaces. This dataset conflates four open data sources into
+    relevant, freely available cooling infrastructure such as the city's 172 public drinking
+    fountains and 88 parks and green spaces. This dataset conflates multiple open data sources into
     <strong>one</strong> table with a consistent schema and a &ldquo;Coole Räume&rdquo; flag, so it
     can be used directly to build a &ldquo;where can I cool down in Graz&rdquo; map, app, or
     accessibility analysis.
@@ -297,7 +297,7 @@
   </table> by cross-referencing the official list from the City of Graz's <a href="https://www.sicherheit.graz.at/cms/beitrag/10395815/12275502/Der_Hitzeaktionsplan_der_Stadt_Graz.html">Hitzeaktionsplan der Stadt Graz</a> (Version 1.0, June 2025, Chapter 5 &mdash; Orte der Abkühlung). Data sources were last checked and verified between early June and <strong>2026-06-12</strong>, reflecting their state as of mid-June 2026. Individual sources update on varying schedules, so the dataset represents a snapshot of availability and current operational status.
   </p>
   <p>
-    <strong>Note on cultural buildings:</strong> The Hitzeaktionsplan also lists the Kunsthaus Graz (Lendkai 1, foyer) and Graz Museum (Sackstraße 18, Stadtoase courtyard) as official "Coole Räume." Both are included in the dataset under the <code>Kulturgebäude</code> category and appear as red markers on the map. Access is free of charge and only during regular opening hours (Tue–Sun approx. 10:00–17:00; check the venue website for current hours).
+    <strong>Note on cultural buildings:</strong> The Hitzeaktionsplan (Chapter 5, &ldquo;Orte der Abk&uuml;hlung&rdquo;) lists the Kunsthaus Graz (Lendkai 1, foyer) and Graz Museum (Sacksstra&szlig;e 18, Stadtoase courtyard) as recommended cooling places. They are included under the <code>Kulturgebäude</code> category and appear in <strong>amber</strong> on the map. They are <em>not</em> part of the named &ldquo;Coole R&auml;ume&rdquo; campaign &mdash; which refers specifically to the church and library partnership program &mdash; so their <code>coole_raeume</code> value is <code>no</code>. Access is during regular opening hours (Tue&ndash;Sun approx. 10:00&ndash;17:00; check the venue website for current times).
   </p>
 
   <h2>Collection &amp; processing method</h2>
@@ -360,7 +360,8 @@
 </main>
 
 <footer>
-  Cool Spots Graz — POI Dataset · Mattis Englisch · <a href="https://github.com/englischmattis-crypto/graz-cool-spots">github.com/englischmattis-crypto/graz-cool-spots</a>
+  Cool Spots Graz — POI Dataset · Mattis Englisch · <a href="https://github.com/englischmattis-crypto/graz-cool-spots">github.com/englischmattis-crypto/graz-cool-spots</a><br>
+  <span style="font-size:0.8em; opacity:0.8;">Dataset content, source selection, and schema design by the author. Build scripts, map code, and website documentation developed with AI assistance (Claude, Anthropic). All data originates from the open sources listed above.</span>
 </footer>
 
 </body>
